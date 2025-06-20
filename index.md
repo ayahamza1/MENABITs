@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<section class="hero" style="margin-bottom: 2rem;">
-  <h2>Welcome</h2>
-  <p>This site hosts a searchable, downloadable archive of Egypt’s 113 known bilateral investment treaties. Built for accessibility, accuracy, and researchers like you.</p>
-</section>
-
 <div style="display: flex; justify-content: center;">
 <div style="text-align: center; margin-bottom: 20px;">
   
