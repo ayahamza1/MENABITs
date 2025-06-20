@@ -273,3 +273,12 @@ th, td {
     display: none;
   }
 }
+
+td.amendment-protocol {
+  white-space: normal;
+  word-break: break-word;
+}
+
+td.amendment-protocol span.break {
+  display: inline;
+}
