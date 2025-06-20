@@ -252,7 +252,7 @@ th, td {
 }
 
 @media (prefers-color-scheme: dark) {
-  .logo-light {
+  .favicon.ico {
     display: none;
   }
   .logo-dark {
@@ -261,7 +261,7 @@ th, td {
 }
 
 @media (prefers-color-scheme: light) {
-  .logo-light {
+  .favicon.svg {
     display: inline;
   }
   .logo-dark {
