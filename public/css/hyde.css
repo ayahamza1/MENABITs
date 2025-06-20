@@ -229,3 +229,16 @@ td.amendment-protocol {
   word-break: break-word;
 }
 
+/* Make Treaty Title column wider */
+table td:nth-child(1),
+table th:nth-child(1) {
+  width: 50%;
+  min-width: 300px;
+}
+
+/* Make Download column narrower */
+table td:last-child,
+table th:last-child {
+  width: 4rem;
+  text-align: center;
+}
