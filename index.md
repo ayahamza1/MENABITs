@@ -1610,7 +1610,7 @@ title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete
 </tr>
 <tr>
 <td class="td8" valign="top">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Algeria%20-%20Egypt%20BIT%20(1997)/">Algeria - Egypt BIT (1997)<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Algeria - Egypt BIT (1997)/">Algeria - Egypt BIT (1997)</a></span></p>
 </td>
 <td class="td9" valign="top">
 <p class="p3"><span class="s1">In Force</span></p>
