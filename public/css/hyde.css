@@ -232,13 +232,13 @@ td.amendment-protocol {
 /* Make Treaty Title column wider */
 table td:nth-child(1),
 table th:nth-child(1) {
-  width: 50%;
+  width: 10rem;
   min-width: 300px;
 }
 
 /* Make Download column narrower */
 table td:last-child,
 table th:last-child {
-  width: 4rem;
+  width: 2rem;
   text-align: center;
 }
