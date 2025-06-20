@@ -92,9 +92,13 @@ html {
 }
 @media (min-width: 48em) {
   .content {
-    margin-left: 23rem; /* previously 22rem */
+    margin-left: 18rem; /* match sidebar width */
+    max-width: calc(100% - 18rem);
+    padding: 2rem;
+    box-sizing: border-box;
   }
 }
+
 @media (min-width: 64em) {
   .content {
     margin-left: 25rem; /* previously 24rem */
