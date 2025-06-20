@@ -1,6 +1,12 @@
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 30px;">
   <h1>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
   <p>This page presents a searchable index of Egypt’s bilateral investment treaties. Download the PDF and TXT files directly.</p>
+</div>
+
+<div style="display: flex; justify-content: center;">
+<div style="text-align: center; margin-bottom: 20px;">
+  
+  
 </div>
 
 <div style="display: flex; justify-content: center;">
@@ -2811,7 +2817,8 @@ title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
-</tr>
-</tbody>
-</table>
-</div
+
+
+
+</div>
+</div>
