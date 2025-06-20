@@ -1,4 +1,5 @@
----More actions
+
+---
 layout: page
 title: Read Me
 permalink: /readme/
@@ -48,3 +49,37 @@ Treaties provided by UNCTAD in languages other than English are included and sou
 ### Only Arabic
 #### In Force
 #### Signed
+#### Terminated
+
+### Only French
+#### In Force
+#### Signed
+#### Terminated
+
+### Only French and Arabic
+#### In Force
+
+### Only Italian
+#### In Force
+
+### Only Azerbaijani
+#### Signed
+
+---
+
+## Complete Egyptian BIT PDF and Text File Database
+
+This index includes a database of cleaned or transcribed treaty texts, each with its source PDF. Use of these files must credit Aya Hamza as compiler and owner.  
+**For access, contact:** [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com)
+
+---
+
+## Recommendations
+
+Researchers should review each text file closely. For example, the U.S. treaty text includes duplicated language in its protocol and annexes. Be attentive to avoid misinterpretation when analyzing provisions.
+
+---
+
+## Disclaimer
+
+Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
