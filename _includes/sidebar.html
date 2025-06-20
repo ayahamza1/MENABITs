@@ -1,12 +1,14 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <!-- Logo Switcher -->
-<div class="logo-wrapper">
-  <img src="{{ site.baseurl }}/public/light-mode.png" alt="Logo Light" class="logo-img logo-light">
-  <img src="{{ site.baseurl }}/public/dark-mode.png" alt="Logo Dark" class="logo-img logo-dark">
-</div>
 
+      <!-- Logo Switcher -->
+      <div class="logo-wrapper" style="text-align: center; margin-bottom: 1rem;">
+        <img src="{{ site.baseurl }}/public/dark-mode.png" alt="Logo for Light Mode" class="logo-img logo-light" style="height: 140px;">
+        <img src="{{ site.baseurl }}/public/light-mode.png" alt="Logo for Dark Mode" class="logo-img logo-dark" style="height: 140px;">
+      </div>
+
+      <!-- Site Title -->
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -15,6 +17,7 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
+    <!-- Navigation -->
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
