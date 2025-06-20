@@ -2780,7 +2780,6 @@
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Switzerland%20BIT%20(1973)/Egypt%20-%20Switzerland%20BIT%20(1973).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Switzerland%20BIT%20(1973)/Egypt%20-%20Switzerland%20BIT%20(1973).txt">TXT<span class="s2"></span></a></span></p>
 </td>
-</tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Kuwait%20BIT%20(1966)/">Egypt - Kuwait BIT (1966)<span class="s2"></span></a></span></p>
