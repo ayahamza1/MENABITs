@@ -46,7 +46,7 @@ html {
 
 /* ✅ Fixed this block: allow title wrapping inside sidebar */
 .sidebar-about h1 {
-  font-size: 1.10rem; /* or try 1.2rem if you want a smaller bump */
+  font-size: 1.00rem; /* or try 1.2rem if you want a smaller bump */
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
@@ -228,17 +228,19 @@ td.amendment-protocol {
   white-space: normal;
   word-break: break-word;
 }
-
-/* Make Treaty Title column wider */
+/* Fixed width for Treaty Title column */
 table td:nth-child(1),
 table th:nth-child(1) {
-  width: 10rem;
-  min-width: 300px;
+  width: 22rem;        /* Adjust this value to your liking */
+  min-width: 22rem;
+  max-width: 22rem;
 }
 
-/* Make Download column narrower */
+/* Fixed width for Download column */
 table td:last-child,
 table th:last-child {
-  width: 2rem;
+  width: 3rem;         /* Small size for 3-character content */
+  min-width: 3rem;
+  max-width: 3rem;
   text-align: center;
 }
