@@ -13,7 +13,6 @@
  * https://github.com/poole/hyde.
  */
 
-
 /*
  * Contents
  *
@@ -22,13 +21,11 @@
  * Container
  * Reverse layout
  * Themes
+ * Tables (custom)
  */
-
 
 /*
  * Global resets
- *
- * Update the foundational and global aspects of the page.
  */
 
 html {
@@ -45,12 +42,8 @@ html {
   }
 }
 
-
 /*
  * Sidebar
- *
- * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
  */
 
 .sidebar {
@@ -70,21 +63,18 @@ html {
   }
 }
 
-/* Sidebar links */
 .sidebar a {
   color: #fff;
 }
 
-/* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 1.5rem; /* ← was 3.25rem */
+  font-size: 1.5rem;
   line-height: 1.3;
 }
 
-/* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
 }
@@ -100,12 +90,6 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
-/* Sticky sidebar
- *
- * Add the `sidebar-sticky` class to the sidebar's container to affix it the
- * contents to the bottom of the sidebar in tablets and up.
- */
-
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
@@ -115,11 +99,8 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
-/* Container
- *
- * Align the contents of the site above the proper threshold with some margin-fu
- * with a 25%-wide `.sidebar`.
+/*
+ * Container
  */
 
 .content {
@@ -142,11 +123,8 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /*
  * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
 
 @media (min-width: 48em) {
@@ -167,18 +145,10 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
-
 /*
  * Themes
- *
- * As of v1.1, Hyde includes optional themes to color the sidebar and links
- * within blog posts. To use, add the class of your choosing to the `body`.
  */
 
-/* Base16 (http://chriskempson.github.io/base16/#default) */
-
-/* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
@@ -187,7 +157,6 @@ a.sidebar-nav-item:focus {
   color: #ac4142;
 }
 
-/* Orange */
 .theme-base-09 .sidebar {
   background-color: #d28445;
 }
@@ -196,7 +165,6 @@ a.sidebar-nav-item:focus {
   color: #d28445;
 }
 
-/* Yellow */
 .theme-base-0a .sidebar {
   background-color: #f4bf75;
 }
@@ -205,7 +173,6 @@ a.sidebar-nav-item:focus {
   color: #f4bf75;
 }
 
-/* Green */
 .theme-base-0b .sidebar {
   background-color: #90a959;
 }
@@ -214,7 +181,6 @@ a.sidebar-nav-item:focus {
   color: #90a959;
 }
 
-/* Cyan */
 .theme-base-0c .sidebar {
   background-color: #75b5aa;
 }
@@ -223,7 +189,6 @@ a.sidebar-nav-item:focus {
   color: #75b5aa;
 }
 
-/* Blue */
 .theme-base-0d .sidebar {
   background-color: #6a9fb5;
 }
@@ -232,7 +197,6 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-/* Magenta */
 .theme-base-0e .sidebar {
   background-color: #aa759f;
 }
@@ -241,11 +205,43 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
-/* Brown */
 .theme-base-0f .sidebar {
   background-color: #8f5536;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/*
+ * Bonus: Table Styling - Compact & Responsive
+ */
+table {
+  width: 100%;
+  table-layout: auto;
+  word-wrap: break-word;
+  font-size: 0.9rem;
+  border-collapse: collapse;
+  overflow-x: auto;
+}
+
+th, td {
+  padding: 0.5rem 0.4rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+@media (min-width: 48em) {
+  table {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 48em) {
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
