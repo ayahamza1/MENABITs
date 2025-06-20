@@ -23,7 +23,7 @@ title: Home
 <td class="td4" valign="middle" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"><b>Date of Entry Into Force</b></span></p>
 </td>
-<td class="amendment-protocol">
+<td class="amendment-protocol" style="padding: 8px 12px; min-width: 70px;">
   <p class="break"><span class="s1"><b>Amendment Protocols</b></span></p>
 </td>
 <td class="td6" valign="middle" style="padding: 8px 12px; min-width: 140px;">
