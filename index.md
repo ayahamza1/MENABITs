@@ -192,7 +192,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Serbia%20BIT%20(2005)/">Egypt - Serbia BIT (2005)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Serbia BIT (2005)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -216,7 +216,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Mongolia%20BIT%20(2004)/">Egypt - Mongolia BIT (2004)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Mongolia BIT (2004)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -240,7 +240,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Finland%20BIT%20(2004)/">Egypt - Finland BIT (2004)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Finland BIT (2004)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -264,7 +264,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Botswana%20-%20Egypt%20BIT%20(2003)/">Botswana - Egypt BIT (2003)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Botswana - Egypt BIT (2003)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
@@ -288,7 +288,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Azerbaijan%20-%20Egypt%20BIT%20(2002)/">Azerbaijan - Egypt BIT (2002)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Azerbaijan - Egypt BIT (2002)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
@@ -312,7 +312,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Seychelles%20BIT%20(2002)/">Egypt - Seychelles BIT (2002)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Seychelles BIT (2002)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
@@ -336,7 +336,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Sudan%20BIT%20(2001)/">Egypt - Sudan BIT (2001)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Sudan BIT (2001)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
