@@ -1,20 +1,21 @@
 <body class="theme-base-08">
-  <div class="sidebar">
-    <div class="sidebar-about">
-      <img src="/public/light-mode.png" class="logo-img logo-dark" alt="Logo">
-      <img src="/public/dark-mode.png" class="logo-img logo-light" alt="Logo">
-      <h1>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
-      <p>A searchable and downloadable archive of Egypt’s bilateral investment treaties.</p>
-    </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
-      <a class="sidebar-nav-item{% if page.url contains 'readme' %} active{% endif %}" href="/readme/">Read Me</a>
-      <a class="sidebar-nav-item" href="https://github.com/ayahamza1/EgyptianBITs" target="_blank">GitHub Repository</a>
-    </nav>
-
-    <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">© Aya Hamza 2025.</p>
+<div class="sidebar">
+  <div class="sidebar-about">
+    <img src="/public/light-mode.png" class="logo-img logo-dark" alt="Logo">
+    <img src="/public/dark-mode.png" class="logo-img logo-light" alt="Logo">
+    <h1>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
+    <p>A searchable and downloadable archive of Egypt’s bilateral investment treaties.</p>
   </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+    <a class="sidebar-nav-item" href="/about">Read Me</a>
+    <a class="sidebar-nav-item" href="https://github.com/ayahamza1/EgyptianBITs" target="_blank">GitHub Repository</a>
+  </nav>
+
+  <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">© Aya Hamza 2025.</p>
+</div>
+
 
   <div class="content">
     {{ content }}
