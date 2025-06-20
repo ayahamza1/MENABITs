@@ -1,23 +1,37 @@
+
 <div class="sidebar">
-  <div class="sidebar-about">
-    <img src="/public/light-mode.png" class="logo-img logo-dark" alt="Logo">
-    <img src="/public/dark-mode.png" class="logo-img logo-light" alt="Logo">
-    <h1 class="sidebar-title">{{ site.title }}</h1>
-    <p class="lead">{{ site.description }}</p>
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+
+      <!-- Logo Switcher -->
+      <div class="logo-wrapper" style="text-align: center; margin-bottom: 1rem;">
+        <img src="{{ site.baseurl }}/public/dark-mode.png" alt="Logo for Light Mode" class="logo-img logo-light" style="height: 140px;">
+        <img src="{{ site.baseurl }}/public/light-mode.png" alt="Logo for Dark Mode" class="logo-img logo-dark" style="height: 140px;">
+      </div>
+
+      <!-- Site Title -->
+<h1 class="sidebar-title">
+  {{ site.title }}
+</h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <!-- Navigation -->
+<nav class="sidebar-nav">
+  <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+  {% assign pages_list = site.pages %}
+  {% for node in pages_list %}
+    {% if node.title and node.layout == "page" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+    {% endif %}
+  {% endfor %}
+
+  <!-- GitHub repository link only -->
+  <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub Repository</a>
+</nav>
+
+
+    <p>&copy; Aya Hamza {{ site.time | date: '%Y' }}.</p>
   </div>
-
-  <!-- Navigation -->
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="/">Home</a>
-    {% for node in site.pages %}
-      {% if node.title and node.layout == "page" %}
-        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-      {% endif %}
-    {% endfor %}
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Repository</a>
-  </nav>
-
-  <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">
-    © Aya Hamza 2025.
-  </p>
 </div>
