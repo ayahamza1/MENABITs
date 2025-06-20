@@ -252,7 +252,7 @@ table th:last-child,
 table td:last-child {
   width: 3rem;
   min-width: 3rem;
-  max-width: 3rem;
+  max-width: 10rem;
   text-align: center;
 }
 
