@@ -50,7 +50,6 @@
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">—</span></p>
 <td style="padding: 8px 12px; min-width: 140px;">—</td>
-</tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
   <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Mauritius BIT (2014)</span></span></p>
@@ -77,7 +76,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Burundi%20-%20Egypt%20BIT%20(2012)/">Burundi - Egypt BIT (2012)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Burundi - Egypt BIT (2012)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
@@ -98,7 +97,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Switzerland%20BIT%20(2010)/">Egypt - Switzerland BIT (2010)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Switzerland BIT (2010)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -122,7 +121,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Iceland%20BIT%20(2008)/">Egypt - Iceland BIT (2008)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Iceland BIT (2008)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -146,7 +145,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Ethiopia%20BIT%20(2006)/">Egypt - Ethiopia BIT (2006)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Ethiopia BIT (2006)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -170,7 +169,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Germany%20BIT%20(2005)/">Egypt - Germany BIT (2005)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Germany BIT (2005)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
