@@ -1,12 +1,17 @@
-<h1 style="text-align: center;">The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
-<p style="text-align: center;">This page presents a searchable index of Egypt’s bilateral investment treaties. Click on any treaty title to download the PDF and TXT files directly.</p>
+<div style="text-align: center; margin-bottom: 20px;">
+  <h1>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
+  <p>This page presents a searchable index of Egypt’s bilateral investment treaties. Download the PDF and TXT files directly.</p>
+</div>
+
+<div style="display: flex; justify-content: center;">
+
+
 ---
-layout: default
 title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index"
 ---
 
 
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Arial; -webkit-text-stroke: #000000"><span class="s1"><b>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</b></span></h1>
+
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 12.0px Arial; -webkit-text-stroke: #000000"><span class="s1">This page presents a searchable index of Egypt’s bilateral investment treaties. Click on any treaty title to open its folder, or download the PDF and TXT files directly.</span></h1>
 <table cellpadding="0" cellspacing="0" class="t1">
 <tbody>
@@ -2809,3 +2814,4 @@ title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete
 </tr>
 </tbody>
 </table>
+</div
