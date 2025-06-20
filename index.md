@@ -1,8 +1,5 @@
 
 ---
-layout: default
-title: Home
----
 
 <div style="display: flex; justify-content: center;">
 <div style="text-align: center; margin-bottom: 20px;">
