@@ -228,7 +228,6 @@ td.amendment-protocol {
   white-space: normal;
   word-break: break-word;
 }
-
 table {
   width: 100%;
   table-layout: fixed;
@@ -241,18 +240,39 @@ table th, table td {
   word-break: break-word;
 }
 
+/* Column widths */
 table th:nth-child(1),
 table td:nth-child(1) {
-  width: 20rem;
-  min-width: 20rem;
-  max-width: 20rem;
+  width: 18rem;
 }
 
-table th:last-child,
-table td:last-child {
-  width: 3rem;
-  min-width: 3rem;
-  max-width: 10rem;
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 6rem;
+}
+
+table th:nth-child(3),
+table td:nth-child(3) {
+  width: 6rem;
+}
+
+table th:nth-child(4),
+table td:nth-child(4) {
+  width: 6rem;
+}
+
+table th:nth-child(5),
+table td:nth-child(5) {
+  width: 6rem;
+}
+
+table th:nth-child(6),
+table td:nth-child(6) {
+  width: 6rem;
+}
+
+table th:nth-child(7),
+table td:nth-child(7) {
+  width: 3.5rem;
   text-align: center;
 }
-
