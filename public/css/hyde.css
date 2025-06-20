@@ -9,24 +9,11 @@
  *                /\___/
  *                \/__/
  *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/hyde.
+ * Designed, built, and released under MIT license by @mdo.
+ * https://github.com/poole/hyde
  */
 
-/*
- * Contents
- *
- * Global resets
- * Sidebar
- * Container
- * Reverse layout
- * Themes
- * Tables (custom)
- */
-
-/*
- * Global resets
- */
+/* === Global resets === */
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -42,9 +29,7 @@ html {
   }
 }
 
-/*
- * Sidebar
- */
+/* === Sidebar === */
 
 .sidebar {
   text-align: center;
@@ -62,11 +47,9 @@ html {
     text-align: left;
   }
 }
-
 .sidebar a {
   color: #fff;
 }
-
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
@@ -74,7 +57,6 @@ html {
   font-size: 1.5rem;
   line-height: 1.3;
 }
-
 .sidebar-nav {
   margin-bottom: 1rem;
 }
@@ -89,7 +71,6 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
-
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
@@ -99,23 +80,20 @@ a.sidebar-nav-item:focus {
   }
 }
 
-/*
- * Container
- */
+/* === Container === */
 
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
 }
-
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: none;
     margin-left: 20rem;
     margin-right: 2rem;
+    padding-left: 1rem;
   }
 }
-
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
@@ -123,9 +101,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-/*
- * Reverse layout
- */
+/* === Reverse layout === */
 
 @media (min-width: 48em) {
   .layout-reverse .sidebar {
@@ -137,7 +113,6 @@ a.sidebar-nav-item:focus {
     margin-right: 20rem;
   }
 }
-
 @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 4rem;
@@ -145,91 +120,59 @@ a.sidebar-nav-item:focus {
   }
 }
 
-/*
- * Themes
- */
+/* === Themes === */
 
-.theme-base-08 .sidebar {
-  background-color: #ac4142;
-}
+.theme-base-08 .sidebar { background-color: #ac4142; }
 .theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
-}
+.theme-base-08 .related-posts li a:hover { color: #ac4142; }
 
-.theme-base-09 .sidebar {
-  background-color: #d28445;
-}
+.theme-base-09 .sidebar { background-color: #d28445; }
 .theme-base-09 .content a,
-.theme-base-09 .related-posts li a:hover {
-  color: #d28445;
-}
+.theme-base-09 .related-posts li a:hover { color: #d28445; }
 
-.theme-base-0a .sidebar {
-  background-color: #f4bf75;
-}
+.theme-base-0a .sidebar { background-color: #f4bf75; }
 .theme-base-0a .content a,
-.theme-base-0a .related-posts li a:hover {
-  color: #f4bf75;
-}
+.theme-base-0a .related-posts li a:hover { color: #f4bf75; }
 
-.theme-base-0b .sidebar {
-  background-color: #90a959;
-}
+.theme-base-0b .sidebar { background-color: #90a959; }
 .theme-base-0b .content a,
-.theme-base-0b .related-posts li a:hover {
-  color: #90a959;
-}
+.theme-base-0b .related-posts li a:hover { color: #90a959; }
 
-.theme-base-0c .sidebar {
-  background-color: #75b5aa;
-}
+.theme-base-0c .sidebar { background-color: #75b5aa; }
 .theme-base-0c .content a,
-.theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
-}
+.theme-base-0c .related-posts li a:hover { color: #75b5aa; }
 
-.theme-base-0d .sidebar {
-  background-color: #6a9fb5;
-}
+.theme-base-0d .sidebar { background-color: #6a9fb5; }
 .theme-base-0d .content a,
-.theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
-}
+.theme-base-0d .related-posts li a:hover { color: #6a9fb5; }
 
-.theme-base-0e .sidebar {
-  background-color: #aa759f;
-}
+.theme-base-0e .sidebar { background-color: #aa759f; }
 .theme-base-0e .content a,
-.theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
-}
+.theme-base-0e .related-posts li a:hover { color: #aa759f; }
 
-.theme-base-0f .sidebar {
-  background-color: #8f5536;
-}
+.theme-base-0f .sidebar { background-color: #8f5536; }
 .theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
-}
+.theme-base-0f .related-posts li a:hover { color: #8f5536; }
 
-/*
- * Bonus: Table Styling - Compact & Responsive
- */
+/* === Table Styling: Compact + No Wrapping === */
+
 table {
   width: 100%;
   table-layout: auto;
-  word-wrap: break-word;
   font-size: 0.9rem;
   border-collapse: collapse;
   overflow-x: auto;
+  white-space: nowrap;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
 
 th, td {
-  padding: 0.5rem 0.4rem;
+  padding: 0.5rem 1rem;
   text-align: left;
   vertical-align: top;
   border-bottom: 1px solid #ddd;
+  white-space: nowrap;
 }
 
 @media (min-width: 48em) {
@@ -241,16 +184,31 @@ th, td {
 @media (max-width: 48em) {
   table {
     display: block;
-    overflow-x: auto;
+    overflow-x: scroll;
     -webkit-overflow-scrolling: touch;
+  }
+  table::-webkit-scrollbar {
+    height: 8px;
+  }
+  table::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
   }
 }
 
+/* === Logo Styling === */
+
 .logo-img {
   height: auto;
-  max-height: 100px; /* or whatever size looks right */
+  max-height: 100px;
   max-width: 100%;
   margin-bottom: 1.5rem;
   display: block;
 }
 
+.logo-dark { display: none; }
+
+@media (prefers-color-scheme: dark) {
+  .logo-light { display: none; }
+  .logo-dark { display: block; }
+}
