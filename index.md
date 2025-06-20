@@ -69,8 +69,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mauritius%20BIT%20(2014)/Egypt%20-%20Mauritius%20BIT%20(2014).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mauritius%20BIT%20(2014)/Egypt%20-%20Mauritius%20BIT%20(2014).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -114,8 +114,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Switzerland%20BIT%20(2010)/Egypt%20-%20Switzerland%20BIT%20(2010).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Switzerland%20BIT%20(2010)/Egypt%20-%20Switzerland%20BIT%20(2010).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -138,8 +138,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Iceland%20BIT%20(2008)/Egypt%20-%20Iceland%20BIT%20(2008).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Iceland%20BIT%20(2008)/Egypt%20-%20Iceland%20BIT%20(2008).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -162,8 +162,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Ethiopia%20BIT%20(2006)/Egypt%20-%20Ethiopia%20BIT%20(2006).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Ethiopia%20BIT%20(2006)/Egypt%20-%20Ethiopia%20BIT%20(2006).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -186,8 +186,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Germany%20BIT%20(2005)/Egypt%20-%20Germany%20BIT%20(2005).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Germany%20BIT%20(2005)/Egypt%20-%20Germany%20BIT%20(2005).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -210,8 +210,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Serbia%20BIT%20(2005)/Egypt%20-%20Serbia%20BIT%20(2005).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Serbia%20BIT%20(2005)/Egypt%20-%20Serbia%20BIT%20(2005).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -234,8 +234,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mongolia%20BIT%20(2004)/Egypt%20-%20Mongolia%20BIT%20(2004).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mongolia%20BIT%20(2004)/Egypt%20-%20Mongolia%20BIT%20(2004).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -258,8 +258,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Finland%20BIT%20(2004)/Egypt%20-%20Finland%20BIT%20(2004).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Finland%20BIT%20(2004)/Egypt%20-%20Finland%20BIT%20(2004).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -282,8 +282,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Botswana%20-%20Egypt%20BIT%20(2003)/Botswana%20-%20Egypt%20BIT%20(2003).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Botswana%20-%20Egypt%20BIT%20(2003)/Botswana%20-%20Egypt%20BIT%20(2003).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -306,8 +306,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Azerbaijan%20-%20Egypt%20BIT%20(2002)/Azerbaijan%20-%20Egypt%20BIT%20(2002).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Azerbaijan%20-%20Egypt%20BIT%20(2002)/Azerbaijan%20-%20Egypt%20BIT%20(2002).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -330,8 +330,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Seychelles%20BIT%20(2002)/Egypt%20-%20Seychelles%20BIT%20(2002).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Seychelles%20BIT%20(2002)/Egypt%20-%20Seychelles%20BIT%20(2002).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -354,8 +354,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sudan%20BIT%20(2001)/Egypt%20-%20Sudan%20BIT%20(2001).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sudan%20BIT%20(2001)/Egypt%20-%20Sudan%20BIT%20(2001).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -378,8 +378,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Australia%20-%20Egypt%20BIT%20(2001)/Australia%20-%20Egypt%20BIT%20(2001).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Australia%20-%20Egypt%20BIT%20(2001)/Australia%20-%20Egypt%20BIT%20(2001).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -402,8 +402,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(2001)/Egypt%20-%20Kuwait%20BIT%20(2001).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(2001)/Egypt%20-%20Kuwait%20BIT%20(2001).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -426,8 +426,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Austria%20-%20Egypt%20BIT%20(2001)/Austria%20-%20Egypt%20BIT%20(2001).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Austria%20-%20Egypt%20BIT%20(2001)/Austria%20-%20Egypt%20BIT%20(2001).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -450,8 +450,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Cameroon%20-%20Egypt%20BIT%20(2000)/Cameroon%20-%20Egypt%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Cameroon%20-%20Egypt%20BIT%20(2000)/Cameroon%20-%20Egypt%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -474,8 +474,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Eswatini%20BIT%20(2000)/Egypt%20-%20Eswatini%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Eswatini%20BIT%20(2000)/Egypt%20-%20Eswatini%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -498,8 +498,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Nigeria%20BIT%20(2000)/Egypt%20-%20Nigeria%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Nigeria%20BIT%20(2000)/Egypt%20-%20Nigeria%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -522,8 +522,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Zambia%20BIT%20(2000)/Egypt%20-%20Zambia%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Zambia%20BIT%20(2000)/Egypt%20-%20Zambia%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -546,8 +546,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Pakistan%20BIT%20(2000)/Egypt%20-%20Pakistan%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Pakistan%20BIT%20(2000)/Egypt%20-%20Pakistan%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -570,8 +570,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Thailand%20BIT%20(2000)/Egypt%20-%20Thailand%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Thailand%20BIT%20(2000)/Egypt%20-%20Thailand%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -594,8 +594,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Central%20African%20Republic%20-%20Egypt%20BIT%20(2000)/Central%20African%20Republic%20-%20Egypt%20BIT%20(2000).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Central%20African%20Republic%20-%20Egypt%20BIT%20(2000)/Central%20African%20Republic%20-%20Egypt%20BIT%20(2000).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -618,8 +618,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Qatar%20BIT%20(1999)/Egypt%20-%20Qatar%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Qatar%20BIT%20(1999)/Egypt%20-%20Qatar%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -642,8 +642,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Macedonia,%20The%20former%20Yugoslav%20Republic%20of%20BIT%20(1999)/Egypt%20-%20Macedonia,%20The%20former%20Yugoslav%20Republic%20of%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Macedonia,%20The%20former%20Yugoslav%20Republic%20of%20BIT%20(1999)/Egypt%20-%20Macedonia,%20The%20former%20Yugoslav%20Republic%20of%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -666,8 +666,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Georgia%20BIT%20(1999)/Egypt%20-%20Georgia%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Georgia%20BIT%20(1999)/Egypt%20-%20Georgia%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -690,8 +690,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Chile%20-%20Egypt%20BIT%20(1999)/Chile%20-%20Egypt%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Chile%20-%20Egypt%20BIT%20(1999)/Chile%20-%20Egypt%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -714,8 +714,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Denmark%20-%20Egypt%20BIT%20(1999)/Denmark%20-%20Egypt%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Denmark%20-%20Egypt%20BIT%20(1999)/Denmark%20-%20Egypt%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -738,8 +738,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Zimbabwe%20BIT%20(1999)/Egypt%20-%20Zimbabwe%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Zimbabwe%20BIT%20(1999)/Egypt%20-%20Zimbabwe%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -762,8 +762,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Portugal%20BIT%20(1999)/Egypt%20-%20Portugal%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Portugal%20BIT%20(1999)/Egypt%20-%20Portugal%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -786,8 +786,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1999)/BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1999)/BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -810,8 +810,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Malta%20BIT%20(1999)/Egypt%20-%20Malta%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Malta%20BIT%20(1999)/Egypt%20-%20Malta%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -834,8 +834,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Jamaica%20BIT%20(1999)/Egypt%20-%20Jamaica%20BIT%20(1999).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Jamaica%20BIT%20(1999)/Egypt%20-%20Jamaica%20BIT%20(1999).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -858,8 +858,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Congo,%20Democratic%20Republic%20of%20the%20-%20Egypt%20BIT%20(1998)/Congo,%20Democratic%20Republic%20of%20the%20-%20Egypt%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Congo,%20Democratic%20Republic%20of%20the%20-%20Egypt%20BIT%20(1998)/Congo,%20Democratic%20Republic%20of%20the%20-%20Egypt%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -882,8 +882,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mozambique%20BIT%20(1998)/Egypt%20-%20Mozambique%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mozambique%20BIT%20(1998)/Egypt%20-%20Mozambique%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -906,8 +906,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Slovenia%20BIT%20(1998)/Egypt%20-%20Slovenia%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Slovenia%20BIT%20(1998)/Egypt%20-%20Slovenia%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -930,8 +930,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20South%20Africa%20BIT%20(1998)/Egypt%20-%20South%20Africa%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20South%20Africa%20BIT%20(1998)/Egypt%20-%20South%20Africa%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -954,8 +954,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Cyprus%20-%20Egypt%20BIT%20(1998)/Cyprus%20-%20Egypt%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Cyprus%20-%20Egypt%20BIT%20(1998)/Cyprus%20-%20Egypt%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -978,8 +978,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Djibouti%20-%20Egypt%20BIT%20(1998)/Djibouti%20-%20Egypt%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Djibouti%20-%20Egypt%20BIT%20(1998)/Djibouti%20-%20Egypt%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1002,8 +1002,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20State%20of%20Palestine%20BIT%20(1998)/Egypt%20-%20State%20of%20Palestine%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20State%20of%20Palestine%20BIT%20(1998)/Egypt%20-%20State%20of%20Palestine%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1026,8 +1026,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Oman%20BIT%20(1998)/Egypt%20-%20Oman%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Oman%20BIT%20(1998)/Egypt%20-%20Oman%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1050,8 +1050,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Bulgaria%20-%20Egypt%20BIT%20(1998)/Bulgaria%20-%20Egypt%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Bulgaria%20-%20Egypt%20BIT%20(1998)/Bulgaria%20-%20Egypt%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1074,8 +1074,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Chad%20-%20Egypt%20BIT%20(1998)/Chad%20-%20Egypt%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Chad%20-%20Egypt%20BIT%20(1998)/Chad%20-%20Egypt%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1098,8 +1098,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Bosnia%20and%20Herzegovina%20-%20Egypt%20BIT%20(1998)/Bosnia%20and%20Herzegovina%20-%20Egypt%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Bosnia%20and%20Herzegovina%20-%20Egypt%20BIT%20(1998)/Bosnia%20and%20Herzegovina%20-%20Egypt%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1122,8 +1122,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Ghana%20BIT%20(1998)/Egypt%20-%20Ghana%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Ghana%20BIT%20(1998)/Egypt%20-%20Ghana%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1146,8 +1146,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mali%20BIT%20(1998)/Egypt%20-%20Mali%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Mali%20BIT%20(1998)/Egypt%20-%20Mali%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1170,8 +1170,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Guinea%20BIT%20(1998)/Egypt%20-%20Guinea%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Guinea%20BIT%20(1998)/Egypt%20-%20Guinea%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1194,8 +1194,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Senegal%20BIT%20(1998)/Egypt%20-%20Senegal%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Senegal%20BIT%20(1998)/Egypt%20-%20Senegal%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1218,8 +1218,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Niger%20BIT%20(1998)/Egypt%20-%20Niger%20BIT%20(1998).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Niger%20BIT%20(1998)/Egypt%20-%20Niger%20BIT%20(1998).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1242,8 +1242,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Gabon%20BIT%20(1997)/Egypt%20-%20Gabon%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Gabon%20BIT%20(1997)/Egypt%20-%20Gabon%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1266,8 +1266,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Croatia%20-%20Egypt%20BIT%20(1997)/Croatia%20-%20Egypt%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Croatia%20-%20Egypt%20BIT%20(1997)/Croatia%20-%20Egypt%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1290,8 +1290,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Malawi%20BIT%20(1997)/Egypt%20-%20Malawi%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Malawi%20BIT%20(1997)/Egypt%20-%20Malawi%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1314,8 +1314,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Russian%20Federation%20BIT%20(1997)/Egypt%20-%20Russian%20Federation%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Russian%20Federation%20BIT%20(1997)/Egypt%20-%20Russian%20Federation%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1338,8 +1338,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Bahrain%20-%20Egypt%20BIT%20(1997)/Bahrain%20-%20Egypt%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Bahrain%20-%20Egypt%20BIT%20(1997)/Bahrain%20-%20Egypt%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1362,8 +1362,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Viet%20Nam%20BIT%20(1997)/Egypt%20-%20Viet%20Nam%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Viet%20Nam%20BIT%20(1997)/Egypt%20-%20Viet%20Nam%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1386,8 +1386,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Korea,%20Dem.%20People's%20Rep.%20of%20BIT%20(1997)/Egypt%20-%20Korea,%20Dem.%20People's%20Rep.%20of%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Korea,%20Dem.%20People's%20Rep.%20of%20BIT%20(1997)/Egypt%20-%20Korea,%20Dem.%20People's%20Rep.%20of%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1410,8 +1410,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Syrian%20Arab%20Republic%20BIT%20(1997)/Egypt%20-%20Syrian%20Arab%20Republic%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Syrian%20Arab%20Republic%20BIT%20(1997)/Egypt%20-%20Syrian%20Arab%20Republic%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1434,8 +1434,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1997)/Egypt%20-%20Morocco%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1997)/Egypt%20-%20Morocco%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1458,8 +1458,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1997)/Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1997)/Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1482,8 +1482,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Republic%20of%20Tanzania%20BIT%20(1997)/Egypt%20-%20United%20Republic%20of%20Tanzania%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Republic%20of%20Tanzania%20BIT%20(1997)/Egypt%20-%20United%20Republic%20of%20Tanzania%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1506,8 +1506,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Slovakia%20BIT%20(1997)/Egypt%20-%20Slovakia%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Slovakia%20BIT%20(1997)/Egypt%20-%20Slovakia%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1530,8 +1530,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Latvia%20BIT%20(1997)/Egypt%20-%20Latvia%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Latvia%20BIT%20(1997)/Egypt%20-%20Latvia%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1554,8 +1554,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Singapore%20BIT%20(1997)/Egypt%20-%20Singapore%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Singapore%20BIT%20(1997)/Egypt%20-%20Singapore%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1578,8 +1578,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Malaysia%20BIT%20(1997)/Egypt%20-%20Malaysia%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Malaysia%20BIT%20(1997)/Egypt%20-%20Malaysia%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1602,8 +1602,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20India%20BIT%20(1997)/Egypt%20-%20India%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20India%20BIT%20(1997)/Egypt%20-%20India%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1626,8 +1626,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Algeria%20-%20Egypt%20BIT%20(1997)/Algeria%20-%20Egypt%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Algeria%20-%20Egypt%20BIT%20(1997)/Algeria%20-%20Egypt%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1650,8 +1650,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Belarus%20-%20Egypt%20BIT%20(1997)/Belarus%20-%20Egypt%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Belarus%20-%20Egypt%20BIT%20(1997)/Belarus%20-%20Egypt%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1674,8 +1674,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Canada%20-%20Egypt%20BIT%20(1996)/Canada%20-%20Egypt%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Canada%20-%20Egypt%20BIT%20(1996)/Canada%20-%20Egypt%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1698,8 +1698,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Turkey%20BIT%20(1996)/Egypt%20-%20Turkey%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Turkey%20BIT%20(1996)/Egypt%20-%20Turkey%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1722,8 +1722,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Armenia%20-%20Egypt%20BIT%20(1996)/Armenia%20-%20Egypt%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Armenia%20-%20Egypt%20BIT%20(1996)/Armenia%20-%20Egypt%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1746,8 +1746,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Yemen%20BIT%20(1996)/Egypt%20-%20Yemen%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Yemen%20BIT%20(1996)/Egypt%20-%20Yemen%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1770,8 +1770,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Jordan%20BIT%20(1996)/Egypt%20-%20Jordan%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Jordan%20BIT%20(1996)/Egypt%20-%20Jordan%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1794,8 +1794,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Korea,%20Republic%20of%20BIT%20(1996)/Egypt%20-%20Korea,%20Republic%20of%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Korea,%20Republic%20of%20BIT%20(1996)/Egypt%20-%20Korea,%20Republic%20of%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1818,8 +1818,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Lebanon%20BIT%20(1996)/Egypt%20-%20Lebanon%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Lebanon%20BIT%20(1996)/Egypt%20-%20Lebanon%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1842,8 +1842,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sri%20Lanka%20BIT%20(1996)/Egypt%20-%20Sri%20Lanka%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sri%20Lanka%20BIT%20(1996)/Egypt%20-%20Sri%20Lanka%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1866,8 +1866,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Netherlands%20BIT%20(1996)/Egypt%20-%20Netherlands%20BIT%20(1996).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Netherlands%20BIT%20(1996)/Egypt%20-%20Netherlands%20BIT%20(1996).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1890,8 +1890,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Uganda%20BIT%20(1995)/Egypt%20-%20Uganda%20BIT%20(1995).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Uganda%20BIT%20(1995)/Egypt%20-%20Uganda%20BIT%20(1995).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1914,8 +1914,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Poland%20BIT%20(1995)/Egypt%20-%20Poland%20BIT%20(1995).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Poland%20BIT%20(1995)/Egypt%20-%20Poland%20BIT%20(1995).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1938,8 +1938,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Hungary%20BIT%20(1995)/Egypt%20-%20Hungary%20BIT%20(1995).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Hungary%20BIT%20(1995)/Egypt%20-%20Hungary%20BIT%20(1995).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1962,8 +1962,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Turkmenistan%20BIT%20(1995)/Egypt%20-%20Turkmenistan%20BIT%20(1995).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Turkmenistan%20BIT%20(1995)/Egypt%20-%20Turkmenistan%20BIT%20(1995).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -1986,8 +1986,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Romania%20BIT%20(1994)/Egypt%20-%20Romania%20BIT%20(1994).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Romania%20BIT%20(1994)/Egypt%20-%20Romania%20BIT%20(1994).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2010,8 +2010,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Comoros%20-%20Egypt%20BIT%20(1994)/Comoros%20-%20Egypt%20BIT%20(1994).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Comoros%20-%20Egypt%20BIT%20(1994)/Comoros%20-%20Egypt%20BIT%20(1994).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2034,8 +2034,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="China%20-%20Egypt%20BIT%20(1994)/China%20-%20Egypt%20BIT%20(1994).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="China%20-%20Egypt%20BIT%20(1994)/China%20-%20Egypt%20BIT%20(1994).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2058,8 +2058,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Indonesia%20BIT%20(1994)/Egypt%20-%20Indonesia%20BIT%20(1994).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Indonesia%20BIT%20(1994)/Egypt%20-%20Indonesia%20BIT%20(1994).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2082,8 +2082,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Greece%20BIT%20(1993)/Egypt%20-%20Greece%20BIT%20(1993).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Greece%20BIT%20(1993)/Egypt%20-%20Greece%20BIT%20(1993).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2106,8 +2106,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Czech%20Republic%20-%20Egypt%20BIT%20(1993)/Czech%20Republic%20-%20Egypt%20BIT%20(1993).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Czech%20Republic%20-%20Egypt%20BIT%20(1993)/Czech%20Republic%20-%20Egypt%20BIT%20(1993).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2130,8 +2130,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Albania%20-%20Egypt%20BIT%20(1993)/Albania%20-%20Egypt%20BIT%20(1993).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Albania%20-%20Egypt%20BIT%20(1993)/Albania%20-%20Egypt%20BIT%20(1993).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2154,8 +2154,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Kazakhstan%20BIT%20(1993)/Egypt%20-%20Kazakhstan%20BIT%20(1993).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Kazakhstan%20BIT%20(1993)/Egypt%20-%20Kazakhstan%20BIT%20(1993).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2178,8 +2178,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Ukraine%20BIT%20(1992)/Egypt%20-%20Ukraine%20BIT%20(1992).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Ukraine%20BIT%20(1992)/Egypt%20-%20Ukraine%20BIT%20(1992).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2202,8 +2202,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Uzbekistan%20BIT%20(1992)/Egypt%20-%20Uzbekistan%20BIT%20(1992).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Uzbekistan%20BIT%20(1992)/Egypt%20-%20Uzbekistan%20BIT%20(1992).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2226,8 +2226,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Spain%20BIT%20(1992)/Egypt%20-%20Spain%20BIT%20(1992).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Spain%20BIT%20(1992)/Egypt%20-%20Spain%20BIT%20(1992).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2250,8 +2250,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Argentina%20-%20Egypt%20BIT%20(1992)/Argentina%20-%20Egypt%20BIT%20(1992).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Argentina%20-%20Egypt%20BIT%20(1992)/Argentina%20-%20Egypt%20BIT%20(1992).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2274,8 +2274,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Libya%20BIT%20(1990)/Egypt%20-%20Libya%20BIT%20(1990).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Libya%20BIT%20(1990)/Egypt%20-%20Libya%20BIT%20(1990).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2298,8 +2298,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Tunisia%20BIT%20(1989)/Egypt%20-%20Tunisia%20BIT%20(1989).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Tunisia%20BIT%20(1989)/Egypt%20-%20Tunisia%20BIT%20(1989).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2322,8 +2322,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Italy%20BIT%20(1989)/Egypt%20-%20Italy%20BIT%20(1989).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Italy%20BIT%20(1989)/Egypt%20-%20Italy%20BIT%20(1989).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2346,8 +2346,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Yemen%20BIT%20(1988)/Egypt%20-%20Yemen%20BIT%20(1988).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Yemen%20BIT%20(1988)/Egypt%20-%20Yemen%20BIT%20(1988).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2370,8 +2370,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1988)/Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1988).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1988)/Egypt%20-%20United%20Arab%20Emirates%20BIT%20(1988).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2394,8 +2394,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20States%20of%20America%20BIT%20(1986)/Egypt%20-%20United%20States%20of%20America%20BIT%20(1986).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20States%20of%20America%20BIT%20(1986)/Egypt%20-%20United%20States%20of%20America%20BIT%20(1986).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2418,8 +2418,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Oman%20BIT%20(1985)/Egypt%20-%20Oman%20BIT%20(1985).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Oman%20BIT%20(1985)/Egypt%20-%20Oman%20BIT%20(1985).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2442,8 +2442,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Somalia%20BIT%20(1982)/Egypt%20-%20Somalia%20BIT%20(1982).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Somalia%20BIT%20(1982)/Egypt%20-%20Somalia%20BIT%20(1982).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2466,8 +2466,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Finland%20BIT%20(1980)/Egypt%20-%20Finland%20BIT%20(1980).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Finland%20BIT%20(1980)/Egypt%20-%20Finland%20BIT%20(1980).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2490,8 +2490,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sweden%20BIT%20(1978)/Egypt%20-%20Sweden%20BIT%20(1978).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sweden%20BIT%20(1978)/Egypt%20-%20Sweden%20BIT%20(1978).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2535,8 +2535,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sudan%20BIT%20(1977)/Egypt%20-%20Sudan%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Sudan%20BIT%20(1977)/Egypt%20-%20Sudan%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2559,8 +2559,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977)/Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977)/Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2583,8 +2583,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1977)/BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1977)/BLEU%20(Belgium-Luxembourg%20Economic%20Union)%20-%20Egypt%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2607,8 +2607,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Japan%20BIT%20(1977)/Egypt%20-%20Japan%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Japan%20BIT%20(1977)/Egypt%20-%20Japan%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2631,8 +2631,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Netherlands%20BIT%20(1976)/Egypt%20-%20Netherlands%20BIT%20(1976).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Netherlands%20BIT%20(1976)/Egypt%20-%20Netherlands%20BIT%20(1976).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2655,8 +2655,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1976)/Egypt%20-%20Morocco%20BIT%20(1976).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1976)/Egypt%20-%20Morocco%20BIT%20(1976).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2679,8 +2679,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Romania%20BIT%20(1976)/Egypt%20-%20Romania%20BIT%20(1976).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Romania%20BIT%20(1976)/Egypt%20-%20Romania%20BIT%20(1976).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2703,8 +2703,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Kingdom%20BIT%20(1975)/Egypt%20-%20United%20Kingdom%20BIT%20(1975).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20United%20Kingdom%20BIT%20(1975)/Egypt%20-%20United%20Kingdom%20BIT%20(1975).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2727,8 +2727,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20France%20BIT%20(1974)/Egypt%20-%20France%20BIT%20(1974).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20France%20BIT%20(1974)/Egypt%20-%20France%20BIT%20(1974).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2751,8 +2751,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Germany%20BIT%20(1974)/Egypt%20-%20Germany%20BIT%20(1974).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Germany%20BIT%20(1974)/Egypt%20-%20Germany%20BIT%20(1974).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
@@ -2775,8 +2775,8 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Switzerland%20BIT%20(1973)/Egypt%20-%20Switzerland%20BIT%20(1973).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Switzerland%20BIT%20(1973)/Egypt%20-%20Switzerland%20BIT%20(1973).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -2798,6 +2798,6 @@
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">PDF</span></span></p>
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">TXT</span></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
