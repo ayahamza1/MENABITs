@@ -258,25 +258,38 @@ th, td {
   }
 
   table {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
     border-color: #555;
   }
 
   th, td {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
     border-bottom: 1px solid #555;
+  }
+
+  tr:nth-child(even) {
+    background-color: #2a2a2a;
+  }
+
+  a {
+    color: #add8ff;
   }
 
   .logo-light {
     display: block;
   }
+
   .logo-dark {
     display: none;
   }
 }
 
+/* Compact amendment protocol column */
 td.amendment-protocol {
   max-width: 140px;
   min-width: 100px;
   white-space: normal;
   word-break: break-word;
 }
-
