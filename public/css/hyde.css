@@ -198,11 +198,10 @@ th, td {
 
 .logo-img {
   height: auto;
-  max-height: 150px; /* increase from 100px or whatever is there */
+  max-height: 150px; /* or even 200px */
   width: auto;
-  max-width: 100%;
-  margin-bottom: 1.5rem;
   display: block;
+  margin-bottom: 1.5rem;
 }
 
 .logo-dark {
