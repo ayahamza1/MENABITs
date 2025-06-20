@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="text-align: left; margin-bottom: 30px;">
   <h1>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
   <p>This page presents a searchable index of Egypt’s bilateral investment treaties. Download the PDF and TXT files directly.</p>
 
@@ -33,7 +33,7 @@
 </td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Saudi%20Arabia%20(2024)/">Egypt - Saudi Arabia (2024)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Saudi Arabia (2024)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
@@ -53,7 +53,7 @@
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="file:///Users/ayahamza/Desktop/Egypt%20-%20Mauritius%20BIT%20(2014)/">Egypt - Mauritius BIT (2014)<span class="s2"></span></a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Mauritius BIT (2014)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
