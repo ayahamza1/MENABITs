@@ -1,17 +1,11 @@
 <div style="text-align: center; margin-bottom: 30px;">
   <h1>The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
   <p>This page presents a searchable index of Egypt’s bilateral investment treaties. Download the PDF and TXT files directly.</p>
-</div>
 
 <div style="display: flex; justify-content: center;">
 <div style="text-align: center; margin-bottom: 20px;">
   
-  
-</div>
-
 <div style="display: flex; justify-content: center;">
-
----
 
 <table cellpadding="0" cellspacing="0" class="t1">
 <tbody>
