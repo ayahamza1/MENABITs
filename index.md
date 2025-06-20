@@ -3,12 +3,9 @@ layout: default
 title: Home
 ---
 
-<div class="post">
-  <h1 class="post-title">The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index</h1>
-  <p class="post-description">A searchable and downloadable archive of Egypt’s bilateral investment treaties.</p>
-  <div class="post-content">
-    <div style="text-align: left; margin-bottom: 30px;">
+<div class="post-content" style="text-align: left; margin-bottom: 30px;">
   <p>This page presents a searchable index of Egypt’s bilateral investment treaties. Download the PDF and TXT files directly.</p>
+</div>
 
 <div style="display: flex; justify-content: center;">
 <div style="text-align: center; margin-bottom: 20px;">
