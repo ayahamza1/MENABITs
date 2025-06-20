@@ -200,7 +200,7 @@ th, td {
   height: 120px;
   width: auto;
   display: block;
-  margin-bottom: 0.5rem; /* Reduce this to close gap */
+margin-bottom: 0.25rem;
 }
 
 .logo-dark {
