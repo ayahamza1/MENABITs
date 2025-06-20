@@ -11,9 +11,6 @@
 
 <div style="display: flex; justify-content: center;">
 
-
----
-title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index"
 ---
 
 
