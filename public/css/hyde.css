@@ -293,3 +293,41 @@ td.amendment-protocol {
   white-space: normal;
   word-break: break-word;
 }
+
+/* === Compact Table Styling === */
+
+table {
+  width: 100%;
+  font-size: 0.85rem;
+  border-collapse: collapse;
+  table-layout: auto;
+  margin: 0.5rem 0;
+}
+
+th, td {
+  padding: 0.25rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1.2;
+}
+
+@media (max-width: 48em) {
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  table::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  table::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+  }
+}
+
