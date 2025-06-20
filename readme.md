@@ -8,7 +8,7 @@ permalink: /readme/
   <strong>License:</strong> Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 </p>
 
-> License:</strong> Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license.
+> **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license.
 
 
 ---
