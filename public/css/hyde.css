@@ -9,10 +9,13 @@ html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
-  .sidebar {
-    width: 20rem; /* instead of 18rem or 22rem */
+  .content {
+    margin-left: 20rem; /* same or more than .sidebar width */
+    padding-left: 1rem;
+    padding-right: 2rem;
   }
 }
+
 
 @media (min-width: 58em) {
   html { font-size: 20px; }
@@ -24,15 +27,18 @@ html {
   padding: 2rem 1rem;
 }
 @media (min-width: 48em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 18rem;
-    text-align: left;
-  }
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 18rem; /* adjust if needed */
+  padding: 2rem 1rem;
+  overflow-y: auto;
+  background-color: #202020; /* or whatever theme you're using */
+  z-index: 1;
 }
+
 .sidebar a {
   color: inherit;
 }
@@ -217,3 +223,4 @@ td.amendment-protocol {
   white-space: normal;
   word-break: break-word;
 }
+
