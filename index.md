@@ -49,11 +49,7 @@ title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete
 </td>
 <td class="td13" valign="top">
 <p class="p3"><span class="s1">—</span></p>
-</td>
-<td class="td14" valign="top">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Saudi%20Arabia%20(2024)/Egypt%20-%20Saudi%20Arabia%20(2024).pdf">PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Saudi%20Arabia%20(2024)/Egypt%20-%20Saudi%20Arabia%20(2024).txt">TXT<span class="s2"></span></a></span></p>
-</td>
+<td>—</td>
 </tr>
 <tr>
 <td class="td8" valign="top">
@@ -98,10 +94,7 @@ title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete
 <td class="td13" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
-<td class="td14" valign="top">
-<p class="p4"><span class="s1"><a href="Burundi%20-%20Egypt%20BIT%20(2012)/Burundi%20-%20Egypt%20BIT%20(2012).pdf">PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="Burundi%20-%20Egypt%20BIT%20(2012)/Burundi%20-%20Egypt%20BIT%20(2012).txt">TXT<span class="s2"></span></a></span></p>
-</td>
+<td>—</td>
 </tr>
 <tr>
 <td class="td8" valign="top">
@@ -2522,10 +2515,7 @@ title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete
 <td class="td13" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
-<td class="td14" valign="top">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Serbia%20BIT%20(1977)/Egypt%20-%20Serbia%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Serbia%20BIT%20(1977)/Egypt%20-%20Serbia%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
-</td>
+<td>—</td>
 </tr>
 <tr>
 <td class="td8" valign="top">
