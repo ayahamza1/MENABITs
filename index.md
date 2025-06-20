@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="post-content" style="text-align: left; margin-bottom: 30px;">
-  <p>This page presents a searchable index of Egypt’s bilateral investment treaties. Download the PDF and TXT files directly.</p>
-</div>
-
 <div style="display: flex; justify-content: center;">
 <div style="text-align: center; margin-bottom: 20px;">
   
