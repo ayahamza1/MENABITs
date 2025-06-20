@@ -245,3 +245,26 @@ th, td {
     -webkit-overflow-scrolling: touch;
   }
 }
+
+.logo-img {
+  height: 50px;
+  margin-bottom: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .logo-light {
+    display: none;
+  }
+  .logo-dark {
+    display: inline;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .logo-light {
+    display: inline;
+  }
+  .logo-dark {
+    display: none;
+  }
+}
