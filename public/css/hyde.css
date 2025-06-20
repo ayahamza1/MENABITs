@@ -228,19 +228,3 @@ td.amendment-protocol {
   white-space: normal;
   word-break: break-word;
 }
-/* Fixed width for Treaty Title column */
-table td:nth-child(1),
-table th:nth-child(1) {
-  width: 22rem;        /* Adjust this value to your liking */
-  min-width: 22rem;
-  max-width: 22rem;
-}
-
-/* Fixed width for Download column */
-table td:last-child,
-table th:last-child {
-  width: 1rem;         /* Small size for 3-character content */
-  min-width: 1rem;
-  max-width: 1rem;
-  text-align: center;
-}
