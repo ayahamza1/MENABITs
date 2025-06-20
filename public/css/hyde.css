@@ -27,27 +27,32 @@ html {
   padding: 2rem 1rem;
 }
 @media (min-width: 48em) {
-.sidebar {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 18rem; /* adjust if needed */
-  padding: 2rem 1rem;
-  overflow-y: auto;
-  background-color: #202020; /* or whatever theme you're using */
-  z-index: 1;
+  .sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 18rem; /* adjust if needed */
+    padding: 2rem 1rem;
+    overflow-y: auto;
+    background-color: #202020; /* or whatever theme you're using */
+    z-index: 1;
+  }
 }
 
 .sidebar a {
   color: inherit;
 }
+
+/* ✅ Fixed this block: allow title wrapping inside sidebar */
 .sidebar-about h1 {
-  font-size: 1.15rem;
+  font-size: 1.05rem; /* Slightly smaller if it helps fit */
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
-  white-space: nowrap; /* Prevent line break */
+  white-space: normal; /* allow line break */
+  word-break: break-word; /* if long, break properly */
+  text-align: left; /* optional: left-align for better wrap control */
 }
 
 .sidebar-about p {
