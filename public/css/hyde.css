@@ -46,20 +46,14 @@ html {
 
 /* ✅ Fixed this block: allow title wrapping inside sidebar */
 .sidebar-about h1 {
-  font-size: 1.05rem;
+  font-size: 1.25rem; /* or try 1.2rem if you want a smaller bump */
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
-  white-space: normal; /* allow wrapping */
+  white-space: normal;
   word-break: break-word;
-  text-align: left; /* left-align title */
-  max-width: 16rem; /* optional: constrains width for line break */
-}
-
-.sidebar-about p {
-  font-size: 0.8rem; /* smaller text */
-  line-height: 1.4;
-  margin-bottom: 1.5rem;
+  text-align: left;
+  max-width: 16rem;
 }
 
 .sidebar-nav {
