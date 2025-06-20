@@ -1,6 +1,5 @@
 ## Heading
 
-Vivamus sagitti
 ---
 
 <div style="display: flex; justify-content: center;">
