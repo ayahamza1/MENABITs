@@ -1,21 +1,34 @@
-title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index"
-description: A complete, downloadable index of Egypt’s bilateral investment treaties
-url: "https://egyptianbits.com"
-baseurl: ""
-
+# Dependencies
 markdown: kramdown
-theme: jekyll-theme-hyde
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+highlighter: rouge
 
-paginate: 5
+# Permalinks
+permalink: pretty
+relative_permalinks: true
 
+# Site Setup
+title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index"
+tagline: "A complete, downloadable index of Egypt’s bilateral investment treaties"
+description: "A searchable and downloadable archive of Egypt’s bilateral investment treaties."
+url: "https://egyptianbits.com" # custom domain
+baseurl: "" # no subdirectory
+
+# Author
 author:
   name: Aya Hamza
   url: https://github.com/ayahamza1
 
+# Pagination
+paginate: 5
+
+# Optional Custom Vars
 version: 2.1.0
 
+# GitHub Repo
 github:
   repo: https://github.com/ayahamza1/EgyptianBITs
+
+# Plugins (used by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
