@@ -10,7 +10,7 @@ html {
 }
 @media (min-width: 48em) {
   .content {
-    margin-left: 22rem; /* same or more than .sidebar width */
+    margin-left: 20rem; /* same or more than .sidebar width */
     padding-left: 1rem;
     padding-right: 2rem;
   }
@@ -32,7 +32,7 @@ html {
     top: 0;
     bottom: 0;
     left: 0;
-    width: 22rem; /* adjust if needed */
+    width: 20rem; /* adjust if needed */
     padding: 2rem 1rem;
     overflow-y: auto;
     background-color: #202020; /* or whatever theme you're using */
