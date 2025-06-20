@@ -1,3 +1,21 @@
-theme: minima
 title: "The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index"
-description: "A complete, downloadable index of Egypt’s bilateral investment treaties"
+description: A complete, downloadable index of Egypt’s bilateral investment treaties
+url: "https://egyptianbits.com"
+baseurl: ""
+
+markdown: kramdown
+theme: jekyll-theme-hyde
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+
+author:
+  name: Aya Hamza
+  url: https://github.com/ayahamza1
+
+version: 2.1.0
+
+github:
+  repo: https://github.com/ayahamza1/EgyptianBITs
