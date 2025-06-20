@@ -31,7 +31,3 @@ github:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-  include:
-  - readme.md
-
