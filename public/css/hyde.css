@@ -8,8 +8,11 @@ html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
-  html { font-size: 16px; }
+  .sidebar {
+    width: 20rem; /* instead of 18rem or 22rem */
+  }
 }
+
 @media (min-width: 58em) {
   html { font-size: 20px; }
 }
@@ -33,13 +36,17 @@ html {
   color: inherit;
 }
 .sidebar-about h1 {
-  color: inherit;
-  margin-top: 0;
-  margin-bottom: 0.5rem; /* reduce space below logo */
-  font-family: "Abril Fatface", serif;
-  font-size: 1.15rem; /* smaller title size */
+  font-size: 1.15rem;
   line-height: 1.2;
-  text-align: left;
+  font-family: "Abril Fatface", serif;
+  margin: 1rem 0 0.5rem 0;
+  white-space: nowrap; /* Prevent line break */
+}
+
+.sidebar-about p {
+  font-size: 0.8rem; /* smaller text */
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
 }
 
 .sidebar-nav {
