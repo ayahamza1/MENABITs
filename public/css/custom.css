@@ -1,9 +1,9 @@
-/* Shrink sidebar and give more space to main content */
+/* Shrink sidebar and widen main content area */
 .sidebar {
   width: 220px;
 }
 
 .content {
-  margin-left: 240px;
-  max-width: 1000px;
+  margin-left: 240px; /* Slightly more than sidebar width */
+  max-width: 1000px;   /* Optional: prevents content from stretching too far */
 }
