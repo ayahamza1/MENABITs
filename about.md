@@ -3,28 +3,76 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Any use or distribution of the database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
-There are currently two themes built on Poole:
+© Aya Hamza 2025
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+---
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Formatting
 
-## Setup
+All treaty formatting has been standardized to ease readability and interpretation. Some grammatical errors (e.g., subject-verb disagreement) remain from their original texts to preserve their integrity.
 
-Some fun facts about the setup of this project include:
+---
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## BIT Transparency
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+The **Egypt - Saudi Arabia (2024)**, **Egypt – Serbia (1977)**, and **Burundi – Egypt (2012)** BITs are the only texts this index fails to identify.
 
-Thanks for reading!
+---
+
+## BIT Text Retrieval
+
+The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were used to scrape texts from UNCTAD or other available English PDFs. The extractions were cleaned, missing data inputted, and visually cross-referenced with originals.
+
+---
+
+### Extracted and Cleaned
+#### In Force
+#### Signed
+#### Terminated
+
+### Transcribed
+#### In Force
+#### Signed
+#### Terminated
+
+### Only Arabic
+#### In Force
+#### Signed
+#### Terminated
+
+### Only French
+#### In Force
+#### Signed
+#### Terminated
+
+### Only French and Arabic
+#### In Force
+
+### Only Italian
+#### In Force
+
+### Only Azerbaijani
+#### Signed
+
+---
+
+## Complete Egyptian BIT PDF and Text File Database
+
+This index includes a database of cleaned or transcribed treaty texts, each with its source PDF. Use of these files must credit Aya Hamza as compiler and owner.  
+**For access, contact:** [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com)
+
+---
+
+## Recommendations
+
+Researchers should review each text file closely. For example, the U.S. treaty text includes duplicated language in its protocol and annexes. Be attentive to avoid misinterpretation when analyzing provisions.
+
+---
+
+## Disclaimer
+
+Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
