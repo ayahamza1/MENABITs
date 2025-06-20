@@ -23,7 +23,7 @@ html {
 
 /* === Sidebar === */
 .sidebar {
-  text-align: center;
+  text-align: left;
   padding: 2rem 1rem;
 }
 @media (min-width: 48em) {
@@ -46,13 +46,14 @@ html {
 
 /* ✅ Fixed this block: allow title wrapping inside sidebar */
 .sidebar-about h1 {
-  font-size: 1.05rem; /* Slightly smaller if it helps fit */
+  font-size: 1.05rem;
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
-  white-space: normal; /* allow line break */
-  word-break: break-word; /* if long, break properly */
-  text-align: left; /* optional: left-align for better wrap control */
+  white-space: normal; /* allow wrapping */
+  word-break: break-word;
+  text-align: left; /* left-align title */
+  max-width: 16rem; /* optional: constrains width for line break */
 }
 
 .sidebar-about p {
