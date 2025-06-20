@@ -34,8 +34,6 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -48,10 +46,10 @@ html {
   }
 }
 .sidebar a {
-  color: #fff;
+  color: inherit;
 }
 .sidebar-about h1 {
-  color: #fff;
+  color: inherit;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 1.5rem;
@@ -130,7 +128,7 @@ a.sidebar-nav-item:focus {
 .theme-base-09 .content a,
 .theme-base-09 .related-posts li a:hover { color: #d28445; }
 
-.theme-base-0a .sidebar { background-color: #f4bf75; }
+theme-base-0a .sidebar { background-color: #f4bf75; }
 .theme-base-0a .content a,
 .theme-base-0a .related-posts li a:hover { color: #f4bf75; }
 
@@ -200,7 +198,7 @@ th, td {
 
 .logo-img {
   height: auto;
-  max-height: 100px;
+  max-height: 140px;
   max-width: 100%;
   margin-bottom: 1.5rem;
   display: block;
@@ -211,10 +209,67 @@ th, td {
 }
 
 @media (prefers-color-scheme: light) {
+  body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  .sidebar {
+    background-color: #202020;
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+  .sidebar a,
+  .sidebar-about h1 {
+    color: #ffffff;
+  }
+
+  .content {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
   .logo-light {
     display: none;
   }
   .logo-dark {
     display: block;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #f0f0f0;
+  }
+
+  .sidebar {
+    background-color: #f0f0f0;
+    color: #202020;
+  }
+
+  .sidebar a,
+  .sidebar-about h1 {
+    color: #202020;
+  }
+
+  .content {
+    background-color: #121212;
+    color: #f0f0f0;
+  }
+
+  table {
+    border-color: #555;
+  }
+
+  th, td {
+    border-bottom: 1px solid #555;
+  }
+
+  .logo-light {
+    display: block;
+  }
+  .logo-dark {
+    display: none;
   }
 }
