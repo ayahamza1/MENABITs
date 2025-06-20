@@ -239,8 +239,8 @@ table th:nth-child(1) {
 /* Fixed width for Download column */
 table td:last-child,
 table th:last-child {
-  width: 3rem;         /* Small size for 3-character content */
-  min-width: 3rem;
-  max-width: 3rem;
+  width: 1rem;         /* Small size for 3-character content */
+  min-width: 1rem;
+  max-width: 1rem;
   text-align: center;
 }
