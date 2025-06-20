@@ -47,7 +47,7 @@ html {
 /* ✅ Fixed this block: allow title wrapping inside sidebar */
 .sidebar-about h1 {
   font-size: 1.2rem; /* or try 1.2rem if you want a smaller bump */
-  line-height: 1.2;
+  line-height: 1.15;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
   white-space: normal;
