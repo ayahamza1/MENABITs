@@ -24,7 +24,7 @@ title: Home
 <p class="p3"><span class="s1"><b>Date of Entry Into Force</b></span></p>
 </td>
 <td class="amendment-protocol">
-  <span class="break">Text up to semicolon</span>;<wbr> rest of the text
+  <p class="break"><span class="s1"><b>Amendment Protocols</b></span>;<wbr> rest of the text</p>
 </td>
 <td class="td6" valign="middle" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"><b>Side Instruments</b></span></p>
