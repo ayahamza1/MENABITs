@@ -13,9 +13,6 @@
 
 ---
 
-
-
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 12.0px Arial; -webkit-text-stroke: #000000"><span class="s1">This page presents a searchable index of Egypt’s bilateral investment treaties. Click on any treaty title to open its folder, or download the PDF and TXT files directly.</span></h1>
 <table cellpadding="0" cellspacing="0" class="t1">
 <tbody>
 <tr>
