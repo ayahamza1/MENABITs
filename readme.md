@@ -43,7 +43,8 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 #### Terminated
 
 ---
-Treaties provided by UNCTAD in languages other than English are included and sourced from the World Trade Institute. Formatting, typographical, and grammatical corrections are the only modifications to the texts.
+Treaties provided by UNCTAD in languages other than English are included and sourced from the <a href="https://edit.wti.org/document/investment-treaty/search" target="_blank">World Trade Institute</a>
+. Formatting, typographical, and grammatical corrections are the only modifications to the texts.
 
 ### Only Arabic
 #### In Force
