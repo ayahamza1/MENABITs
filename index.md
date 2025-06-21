@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Database of Egypt's BIT PDFs and Verified Texts
+title: Public Database of GoE BIT PDFs and Verified Texts
 permalink: /
 ---
 
