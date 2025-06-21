@@ -2760,33 +2760,32 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td13" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
-<td class="td14" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
-</td>
+</tr>
+</tbody>
+</table> <!-- ✅ Properly close the table first -->
+
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
-<p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
+  <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
     This database supports research and practice across law, academia, and industry.
   </p>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
-<!-- Tier 1: Universities -->
-<div>
-<p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
-<img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/uchicago.png"/>
-<img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/oxford.png"/>
-</div>
-<!-- Tier 2: Law Firms -->
-<div>
-<p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
-<img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/freshfields.png"/>
-<img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/cleary.png"/>
-</div>
-<!-- Tier 3: Business & Policy Groups -->
-<div>
-<p style="font-weight: bold; margin-bottom: 0.5rem;">Policy &amp; Business</p>
-<img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/wti.png"/>
-<img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/unctad.png"/>
-</div>
-</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+    <!-- Tier 1: Universities -->
+    <div>
+      <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
+      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/uchicago.png"/>
+      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/oxford.png"/>
+    </div>
+    <!-- Tier 2: Law Firms -->
+    <div>
+      <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
+      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/freshfields.png"/>
+      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/cleary.png"/>
+    </div>
+    <!-- Tier 3: Business & Policy Groups -->
+    <div>
+      <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy &amp; Business</p>
+      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/wti.png"/>
+      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/unctad.png"/>
+    </div>
+  </div>
 </footer>
-<hr/></tr></tr></td></tr></tr></tbody></table>
