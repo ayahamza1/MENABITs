@@ -128,15 +128,15 @@ Egypt – Jamaica BIT (1999)
 
 English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the World Trade Institute website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
 
-### In Force:
+#### In Force:
 * Egypt – Sudan BIT (2001)
   
-### Signed:
+#### Signed:
 * Egypt – Mozambique BIT (1998)
   * Note: World Trade Institute metadata links to a Portugese PDF.
 * Egypt – United Republic of Tanzania BIT (1997)
   
-### Terminated:
+#### Terminated:
 * Egypt – Yemen BIT (1988)
 * Egypt – United Arab Emirates BIT (1988)
 * Egypt – Kuwait BIT (1966)
