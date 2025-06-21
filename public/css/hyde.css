@@ -202,7 +202,7 @@ table {
 /* Column widths */
 table th:nth-child(1),
 table td:nth-child(1) {
-  width: 11rem;
+  width: 13rem;
 }
 
 table th:nth-child(2),
