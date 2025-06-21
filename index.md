@@ -20,7 +20,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 
 ---
 
-<table cellpadding="0" cellspacing="0" class="display" id="treaties">
+<table cellpadding="0" cellspacing="0" class="t1">
 <tbody>
 <tr>
 <td class="td1" style="padding: 8px 12px; min-width: 140px;" valign="middle">
@@ -56,9 +56,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2024-15-10</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">—</span></p>
 </td>
@@ -99,9 +97,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2012-05-13</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -288,9 +284,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2003-07-02</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -312,9 +306,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2002-10-24</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -336,9 +328,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2002-01-22</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -456,9 +446,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2000-10-24</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -480,9 +468,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2000-07-18</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -504,9 +490,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2000-06-20</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -528,9 +512,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2000-04-28</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -552,9 +534,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2000-04-16</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -600,9 +580,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">2000-02-07</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -648,9 +626,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1999-11-22</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -672,9 +648,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1999-08-10</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -696,9 +670,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1999-08-05</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -744,9 +716,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1999-06-02</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -840,9 +810,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1999-02-10</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -864,9 +832,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-12-18</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -888,9 +854,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-12-08</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -936,9 +900,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-10-28</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -984,9 +946,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-07-21</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1080,9 +1040,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-03-14</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1128,9 +1086,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-03-11</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1176,9 +1132,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-03-06</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1200,9 +1154,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-03-05</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1224,9 +1176,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1998-03-04</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1248,9 +1198,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1997-12-22</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1488,9 +1436,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1997-04-30</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -1896,9 +1842,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1995-11-04</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -2424,9 +2368,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1985-04-28</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -2565,9 +2507,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <td class="td10" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">1977-05-25</span></p>
 </td>
-<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">
-<p class="p5"><span class="s1"></span><br/></p>
-</td>
+<td class="td11" style="padding: 8px 12px; min-width: 140px;" valign="top">—</td>
 <td class="td12" style="padding: 8px 12px; min-width: 140px;" valign="top">
 <p class="p3"><span class="s1">No</span></p>
 </td>
@@ -2842,11 +2782,4 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 </div>
 </div>
 </footer>
-<hr/></tr></tr></td></tr></tr></tbody></table><script>
-$(document).ready(function() {
-    $('#treaties').DataTable({
-        pageLength: 25,
-        responsive: true
-    });
-});
-</script>
+<hr/></tr></tr></td></tr></tr></tbody></table>
