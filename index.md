@@ -1376,7 +1376,7 @@ For questions, contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Korea, Dem. People's Rep. of BIT (1997)</span></span></p>
+<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Democratic People's Republic of Korea BIT (1997)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
@@ -1616,7 +1616,7 @@ For questions, contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="Algeria - Egypt BIT (1997)/">Algeria - Egypt BIT (1997)</a></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Algeria - Egypt BIT (1997)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
