@@ -100,7 +100,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Chile – Egypt BIT (1999)
 * Egypt – Zimbabwe BIT (1999)
   * Note: Article 12, Section 2 is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.
-Egypt – Jamaica BIT (1999)
+* Egypt – Jamaica BIT (1999)
 * Egypt – South Africa BIT (1998)
 * Egypt – Ghana BIT (1998)
 * Egypt – Uganda BIT (1995)
