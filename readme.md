@@ -5,7 +5,8 @@ permalink: /readme/
 ---
 
 > **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license.
-> > **Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
+
+> **Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
 
 ---
 
@@ -57,7 +58,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Ethiopia BIT (2006)
 * Egypt – Germany BIT (2005)
 * Egypt – Serbia BIT (2005)
-  * *Note: The penultimate two pages of the UNCTAD PDF are upside down, cutting into Article 9. It has been adjusted in the database to ease future extraction efforts.*
+  * Note: The penultimate two pages of the UNCTAD PDF are upside down, cutting into Article 9. It has been adjusted in the database to ease future extraction efforts.
 * Egypt – Finland BIT (2004)
 * Egypt – Thailand BIT (2000)
 * Australia – Egypt BIT (2001)
