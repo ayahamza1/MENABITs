@@ -6,6 +6,10 @@ permalink: /readme/
 
 > **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license.
 
+## Disclaimer
+
+Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
+
 ---
 
 ## Formatting
@@ -22,6 +26,25 @@ This index has yet to identify the following BITs:
 * Burundi – Egypt (2012)
 
 ---
+## PDFs
+
+English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the WTI website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
+
+### In Force:
+* Egypt – Sudan BIT (2001)
+  
+### Signed:
+* Egypt – Mozambique BIT (1998)
+*Note: WTI metadata links to a Portugese PDF.*
+* Egypt – United Republic of Tanzania BIT (1997)
+  
+### Terminated:
+* Egypt – Yemen BIT (1988)
+* Egypt – United Arab Emirates BIT (1988)
+* Egypt – Kuwait BIT (1966)
+*Note: WTI metadata links to an Arabic PDF.*
+
+---
 
 ## BIT Text Retrieval
 
@@ -31,13 +54,99 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 
 ### Extracted and Cleaned
 #### In Force
+* Egypt – Mauritius BIT (2014)
+* Egypt – Switzerland BIT (2010)
+* Egypt – Iceland BIT (2008)
+* Egypt – Ethiopia BIT (2006)
+* Egypt – Germany BIT (2005)
+* Egypt – Serbia BIT (2005)
+*Note: The penultimate two pages of the UNCTAD PDF are upside down, cutting into Article 9. It has been adjusted in the database to ease future extraction efforts.*
+* Egypt – Finland BIT (2004)
+* Egypt – Thailand BIT (2000)
+* Australia – Egypt BIT (2001)
+* Austria – Egypt BIT (2001)
+* Denmark – Egypt BIT (1999)
+* Egypt – Portugal BIT (1999)
+* Egypt – Slovenia BIT (1998)
+* Cyprus – Egypt BIT (1998)
+* Bulgaria – Egypt BIT (1998)
+*Note: Article 6, Line (c) is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.*
+* Bosnia and Herzegovina – Egypt BIT (1998)
+*Note: Article 12 is missing from the UNCTAD PDF.*
+* Croatia – Egypt BIT (1997)
+* Egypt – Russian Federation BIT (1997)
+* Egypt – Viet Nam BIT (1997)
+* Egypt – Democratic People's Republic of Korea (1997)
+* Egypt – Slovakia BIT (1997)
+* Egypt – Latvia BIT (1997)
+* Egypt – Singapore BIT (1997)
+* Egypt – Malaysia BIT (1997)
+* Belarus – Egypt (1997)
+*Note: Article 8 is missing Item (c).*
+* Canada – Egypt BIT (1996)
+* Egypt – Turkey BIT (1996)
+* Armenia – Egypt BIT (1996)
+* Egypt – Jordan BIT (1996)
+* Egypt – Republic of Korea (1996)
+* Egypt – Sri Lanka BIT (1996)
+* Egypt – Netherlands BIT (1996)
+*Note: Rights for this text are reserved by the Tractatenblad: the Netherlands' official journal of treaties.*
+* Egypt – Poland BIT (1995)
+* Egypt – Hungary BIT (1995)
+* Egypt – Turkmenistan BIT (1995)
+* Egypt – Romania BIT (1994)
+* China – Egypt BIT (1994)
+* Egypt – Greece BIT (1993)
+* Czech Republic – Egypt BIT (1993)
+* Egypt – Spain BIT (1992)
+*Note: UNCTAD PDF is only available in Spanish. The United Nations Treaty Collection separately hosts the English version.*
+* Argentina – Egypt BIT (1992)
+* Egypt – United States of America BIT (1986)
+* Egypt – Sweden BIT (1978)
+* Egypt – Japan BIT (1977)
+* Egypt – United Kingdom BIT (1975)
+* Egypt – France BIT (1974)
 #### Signed
+* Botswana – Egypt BIT (2003)
+*Note: UNCTAD does not host a PDF; found on the Juris Arbitration Law website.*
+* Egypt – Seychelles BIT (2002)
+* Egypt – Eswatini BIT (2000)
+*Note: The Preamble through Article 2, Section 1, and Article 10, Section 4 onwards are missing in the PDF and were sourced from the World Trade Institute (WTI) website.*
+* Egypt – Nigeria BIT (2000)
+* Egypt – Zambia BIT (2000)
+* Egypt – Pakistan BIT (2000)
+* Egypt – The Former Yugoslav Republic of Macedonia BIT (1999)
+* Egypt – Georgia BIT (1999)
+* Chile – Egypt BIT (1999)
+* Egypt – Zimbabwe BIT (1999)
+*Note: Article 12, Section 2 is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.*
+Egypt – Jamaica BIT (1999)
+* Egypt – South Africa BIT (1998)
+* Egypt – Ghana BIT (1998)
+* Egypt – Uganda BIT (1995)
+
 #### Terminated
+* Egypt – India BIT (1997)
+* Egypt – Finland BIT (1980)
+* BLEU – Egypt BIT (1977)
+* Egypt – Netherlands BIT (1976)
+* Egypt – Romania BIT (1976)
+* Egypt – Germany BIT (1974)
 
 ### Transcribed
+
+
 #### In Force
+* Egypt – Mongolia BIT (2004)
+* Egypt – Malta BIT (1999)
+* Egypt – Malawi BIT (1997)
+* Albania – Egypt BIT (1993)
+* Egypt – Kazakhstan BIT (1993)
+* Egypt – Ukraine BIT (1992)
+* Egypt – Uzbekistan BIT (1992)
 #### Signed
 #### Terminated
+* Egypt – Indonesia BIT (1994)
 
 ---
 Treaties provided by UNCTAD in languages other than English are included and sourced from the World Trade Institute. Formatting, typographical, and grammatical corrections are the only modifications to the texts.
@@ -63,19 +172,6 @@ Treaties provided by UNCTAD in languages other than English are included and sou
 
 ---
 
-## Complete Egyptian BIT PDF and Text File Database
-
-This index includes a database of cleaned or transcribed treaty texts, each with its source PDF. Use of these files must credit Aya Hamza as compiler and owner.  
-**For access, contact:** [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com)
-
----
-
 ## Recommendations
 
 Researchers should review each text file closely. For example, the U.S. treaty text includes duplicated language in its protocol and annexes. Be attentive to avoid misinterpretation when analyzing provisions.
-
----
-
-## Disclaimer
-
-Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
