@@ -12,26 +12,30 @@
 <h1 class="sidebar-title">{{ site.title | markdownify }}</h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
+    
 <!-- Navigation -->
 <nav class="sidebar-nav">
-  <a class="sidebar-nav-item{% if page.url == site.baseurl or page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+  <!-- Home link for root path -->
+  <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-  <a class="sidebar-nav-item{% if page.url == '/readme/' or page.url == site.baseurl | append: '/readme/' %} active{% endif %}" href="{{ site.baseurl }}/readme/">Read Me</a>
+  <!-- Read Me page -->
+  <a class="sidebar-nav-item{% if page.url == '/readme/' %} active{% endif %}" href="{{ site.baseurl }}/readme/">Read Me</a>
 
+  <!-- Dynamically include other pages (excluding Read Me and Home) -->
   {% assign pages_list = site.pages %}
   {% for node in pages_list %}
-    {% if node.title and node.layout == "page" and node.url != "/readme/" %}
+    {% if node.title and node.layout == "page" and node.url != "/readme/" and node.url != "/" %}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
     {% endif %}
   {% endfor %}
 
-  <!-- 🔗 Knowledge@UChicago Link -->
+  <!-- Knowledge@UChicago PDF -->
   <a class="sidebar-nav-item" href="https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf" target="_blank">Knowledge@UChicago PDF</a>
 
-  <!-- GitHub Repository Link -->
+  <!-- GitHub Repository -->
   <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Repository</a>
 </nav>
+
 
 
 <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">
