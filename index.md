@@ -12,6 +12,8 @@ Intended as a reference for lawyers, academics, policymakers, and investors.
 
 For questions, contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
+---
+
 <table cellpadding="0" cellspacing="0" class="t1">
 <tbody>
 <tr>
