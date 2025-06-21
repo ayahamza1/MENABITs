@@ -296,3 +296,16 @@ table td:nth-child(7) {
   line-height: 1.3;
   color: rgba(255, 255, 255, 0.5);
 }
+
+.table-container {
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 0;
+}
+
+.table-container h1,
+.table-container p {
+  margin-left: 0;
+  padding-left: 0;
+}
+
