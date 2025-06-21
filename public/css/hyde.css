@@ -248,7 +248,7 @@ table td:nth-child(1) {
 
 table th:nth-child(2),
 table td:nth-child(2) {
-  width: 5.0rem;
+  width: 4.5rem;
 }
 
 table th:nth-child(3),
@@ -258,7 +258,7 @@ table td:nth-child(3) {
 
 table th:nth-child(4),
 table td:nth-child(4) {
-  width: 7.0rem;
+  width: 7.5rem;
 }
 
 table th:nth-child(5),
@@ -273,7 +273,7 @@ table td:nth-child(6) {
 
 table th:nth-child(7),
 table td:nth-child(7) {
-  width: 4.0rem;
+  width: 4.5rem;
   text-align: center;
 }
 
