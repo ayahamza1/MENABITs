@@ -1,11 +1,12 @@
 ## A Public Database of Egypt's BIT PDFs and Verified Texts
--
-Compiled and indexed by Aya Hamza for to support transparency in international investment law; curated for researchers, lawyers, and policymakers.
--
+
+Compiled by Aya Hamza to advance transparency in international investment law.  
+Intended as a reference for lawyers, academics, policymakers, and investors.
 
 <div style="display: flex; justify-content: center;">
-<div style="text-align: center; margin-bottom: 20px;">
-  
+  <div style="text-align: center; margin-bottom: 20px;">
+  </div
+
 <div style="display: flex; justify-content: center;">
 
 <table cellpadding="0" cellspacing="0" class="t1">
