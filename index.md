@@ -16,8 +16,7 @@ Paired with their source PDFs, treaty texts in this index include:
 * 32 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
 
 > **License:** Any use, distribution, or reproduction of *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
-
-> **Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)).
+**Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)).
 
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
