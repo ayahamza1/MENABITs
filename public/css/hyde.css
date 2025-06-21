@@ -268,8 +268,11 @@ table td:nth-child(5) {
 
 table th:nth-child(6),
 table td:nth-child(6) {
-  width: 6.5rem;
+  width: 12rem;
+  min-width: 12rem;
+  max-width: 12rem;
 }
+
 
 table th:nth-child(7),
 table td:nth-child(7) {
