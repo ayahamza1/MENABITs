@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Public Database of Egypt's BIT PDFs and Verified Texts
-permalink: /home/
+permalink: /
 ---
 
 Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transparency in international investment law.  
