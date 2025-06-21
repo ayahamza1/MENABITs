@@ -2828,22 +2828,22 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
     <!-- Tier 1: Universities -->
     <div>
       <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
-      <img src="{{ site.baseurl }}/public/logos/uchicago.png" alt="University of Chicago" height="40">
-      <img src="{{ site.baseurl }}/public/logos/oxford.png" alt="Oxford" height="40">
+      <img src="{{ site.baseurl }}/public/logos/uchicago.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/oxford.png" alt="Example" height="40">
     </div>
 
     <!-- Tier 2: Law Firms -->
     <div>
       <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
-      <img src="{{ site.baseurl }}/public/logos/freshfields.png" alt="Freshfields" height="40">
-      <img src="{{ site.baseurl }}/public/logos/cleary.png" alt="Cleary Gottlieb" height="40">
+      <img src="{{ site.baseurl }}/public/logos/freshfields.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/cleary.png" alt="Example" height="40">
     </div>
 
     <!-- Tier 3: Business & Policy Groups -->
     <div>
       <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy & Business</p>
-      <img src="{{ site.baseurl }}/public/logos/wti.png" alt="World Trade Institute" height="40">
-      <img src="{{ site.baseurl }}/public/logos/unctad.png" alt="UNCTAD" height="40">
+      <img src="{{ site.baseurl }}/public/logos/wti.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/unctad.png" alt="Example" height="40">
     </div>
 
   </div>
