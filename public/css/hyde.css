@@ -257,13 +257,13 @@ table td:nth-child(7) {
     padding: 1rem;
   }
 
+  .sidebar-sticky {
+    position: static;
+  }
+
   .content {
     margin-left: 0;
     padding: 1rem;
     max-width: 100%;
-  }
-
-  .sidebar-sticky {
-    position: static;
   }
 }
