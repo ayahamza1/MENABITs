@@ -24,25 +24,6 @@ This index has yet to identify the following BITs:
 * Burundi – Egypt (2012)
 
 ---
-## PDFs
-
-English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the World Trade Institute website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
-
-### In Force:
-* Egypt – Sudan BIT (2001)
-  
-### Signed:
-* Egypt – Mozambique BIT (1998)
-*Note: World Trade Institute metadata links to a Portugese PDF.*
-* Egypt – United Republic of Tanzania BIT (1997)
-  
-### Terminated:
-* Egypt – Yemen BIT (1988)
-* Egypt – United Arab Emirates BIT (1988)
-* Egypt – Kuwait BIT (1966)
-*Note: World Trade Institute metadata links to an Arabic PDF.*
-
----
 
 ## BIT Text Retrieval
 
@@ -68,9 +49,9 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Slovenia BIT (1998)
 * Cyprus – Egypt BIT (1998)
 * Bulgaria – Egypt BIT (1998)
-*Note: Article 6, Line (c) is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.*
+  * Note: Article 6, Line (c) is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.
 * Bosnia and Herzegovina – Egypt BIT (1998)
-*Note: Article 12 is missing from the UNCTAD PDF.*
+  * Note: Article 12 is missing from the UNCTAD PDF.
 * Croatia – Egypt BIT (1997)
 * Egypt – Russian Federation BIT (1997)
 * Egypt – Viet Nam BIT (1997)
@@ -80,7 +61,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Singapore BIT (1997)
 * Egypt – Malaysia BIT (1997)
 * Belarus – Egypt (1997)
-*Note: Article 8 is missing Item (c).*
+  * Note: Article 8 is missing Item (c).
 * Canada – Egypt BIT (1996)
 * Egypt – Turkey BIT (1996)
 * Armenia – Egypt BIT (1996)
@@ -88,7 +69,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Republic of Korea (1996)
 * Egypt – Sri Lanka BIT (1996)
 * Egypt – Netherlands BIT (1996)
-*Note: Rights for this text are reserved by the Tractatenblad: the Netherlands' official journal of treaties.*
+  * Note: Rights for this text are reserved by the *Tractatenblad*: the Netherlands' official journal of treaties.
 * Egypt – Poland BIT (1995)
 * Egypt – Hungary BIT (1995)
 * Egypt – Turkmenistan BIT (1995)
@@ -97,19 +78,20 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Greece BIT (1993)
 * Czech Republic – Egypt BIT (1993)
 * Egypt – Spain BIT (1992)
-*Note: UNCTAD PDF is only available in Spanish. The United Nations Treaty Collection separately hosts the English version.*
+  * Note: UNCTAD PDF is only available in Spanish. The United Nations Treaty Collection separately hosts the English version.
 * Argentina – Egypt BIT (1992)
 * Egypt – United States of America BIT (1986)
 * Egypt – Sweden BIT (1978)
 * Egypt – Japan BIT (1977)
 * Egypt – United Kingdom BIT (1975)
 * Egypt – France BIT (1974)
+
 #### Signed
 * Botswana – Egypt BIT (2003)
-*Note: UNCTAD does not host a PDF; found on the Juris Arbitration Law website.*
+  * Note: UNCTAD does not host a PDF; found on the Juris Arbitration Law website.
 * Egypt – Seychelles BIT (2002)
 * Egypt – Eswatini BIT (2000)
-*Note: The Preamble through Article 2, Section 1, and Article 10, Section 4 onwards are missing in the PDF and were sourced from the World Trade Institute (WTI) website.*
+  * Note: The Preamble through Article 2, Section 1, and Article 10, Section 4 onwards are missing in the PDF and were sourced from the World Trade Institute website.
 * Egypt – Nigeria BIT (2000)
 * Egypt – Zambia BIT (2000)
 * Egypt – Pakistan BIT (2000)
@@ -117,7 +99,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Georgia BIT (1999)
 * Chile – Egypt BIT (1999)
 * Egypt – Zimbabwe BIT (1999)
-*Note: Article 12, Section 2 is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.*
+  * Note: Article 12, Section 2 is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.
 Egypt – Jamaica BIT (1999)
 * Egypt – South Africa BIT (1998)
 * Egypt – Ghana BIT (1998)
@@ -131,9 +113,7 @@ Egypt – Jamaica BIT (1999)
 * Egypt – Romania BIT (1976)
 * Egypt – Germany BIT (1974)
 
-### Transcribed
-
-
+## Transcribed
 #### In Force
 * Egypt – Mongolia BIT (2004)
 * Egypt – Malta BIT (1999)
@@ -142,31 +122,81 @@ Egypt – Jamaica BIT (1999)
 * Egypt – Kazakhstan BIT (1993)
 * Egypt – Ukraine BIT (1992)
 * Egypt – Uzbekistan BIT (1992)
-#### Signed
+
 #### Terminated
 * Egypt – Indonesia BIT (1994)
+
+English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the World Trade Institute website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
+
+### In Force:
+* Egypt – Sudan BIT (2001)
+  
+### Signed:
+* Egypt – Mozambique BIT (1998)
+  * Note: World Trade Institute metadata links to a Portugese PDF.
+* Egypt – United Republic of Tanzania BIT (1997)
+  
+### Terminated:
+* Egypt – Yemen BIT (1988)
+* Egypt – United Arab Emirates BIT (1988)
+* Egypt – Kuwait BIT (1966)
+  * Note: World Trade Institute metadata links to an Arabic PDF.
 
 ---
 Treaties provided by UNCTAD in languages other than English are included and sourced from the World Trade Institute. Formatting, typographical, and grammatical corrections are the only modifications to the texts.
 
 ### Only Arabic
 #### In Force
+* Egypt – Kuwait BIT (2001)
+* Egypt – Qatar BIT (1999)
+* Egypt – State of Palestine BIT (1998)
+* Egypt – Oman (1998)
+* Egypt – Syrian Arab Republic BIT (1997)
+* Bahrain – Egypt BIT (1997)
+* Egypt – United Arab Emirates BIT (1997)
+* Egypt – Morocco BIT (1997)
+* Egypt – Yemen BIT (1996)
+* Egypt – Lebanon BIT (1996)
+* Comoros – Egypt BIT (1994)
+* Egypt – Libya BIT (1990)
+* Egypt – Tunisia BIT (1989)
+* Egypt – Somalia BIT (1982)
 #### Signed
+* Chad – Egypt BIT (1998)
+* Djibouti – Egypt BIT (1998)
+* Egypt – Niger BIT (1998)
+* Egypt – Gabon BIT (1997)
+* Egypt – Islamic Republic of Iran BIT (1977)
 #### Terminated
+* Egypt – Oman BIT (1985)
+* Egypt – Sudan BIT (1977)
 
 ### Only French
 #### In Force
+* Egypt – Mali BIT (1998)
+* Algeria – Egypt BIT (1997)
+
 #### Signed
+* Cameroon – Egypt BIT (2000)
+* Central African Republic – Egypt BIT (2000)
+* Democratic Republic of the Congo – Egypt BIT (1998)
+* Egypt – Guinea BIT (1998)
+* Egypt – Senegal BIT (1998)
+
 #### Terminated
+* Egypt – Switzerland BIT (1973)
 
 ### Only French and Arabic
 #### In Force
+* BLEU – Egypt (1999)
 
 ### Only Italian
 #### In Force
+* Egypt – Italy BIT (1989)
 
 ### Only Azerbaijani
 #### Signed
+* Azerbaijan – Egypt BIT (2002)
 
 ---
 
