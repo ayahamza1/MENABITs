@@ -17,7 +17,7 @@ Paired with their source PDFs, treaty texts in this index include:
 
 > **License:** Any use, distribution, or reproduction of *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
-> **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in scanned, bilingual formats that complicate digitization. This index required independent extraction, cleaning, transcription, and formatting to create a uniform, English-accessible database.
+> **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in scanned, bilingual formats that complicate digitization. This index required independent extraction, cleaning, transcription, and formatting to produce a uniform, English-accessible database.
 
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
