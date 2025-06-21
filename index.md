@@ -2817,3 +2817,13 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
+
+
+<script>
+  $(document).ready(function () {
+    $('#bitTable').DataTable({
+      paging: false,
+      info: false
+    });
+  });
+</script>
