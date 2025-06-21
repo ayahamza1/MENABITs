@@ -2848,3 +2848,13 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 
   </div>
 </footer>
+
+<hr>
+<footer style="margin-top: 2rem; text-align: center; font-size: 0.9rem;">
+  <p>This database supports research and practice at:</p>
+  <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+    <div><img src="/public/logos/uchicago.png" alt="UChicago" height="40"><br>University</div>
+    <div><img src="/public/logos/lawfirm.png" alt="Law Firm" height="40"><br>Law Firm</div>
+    <div><img src="/public/logos/bizgroup.png" alt="Business Group" height="40"><br>Business Group</div>
+  </div>
+</footer>
