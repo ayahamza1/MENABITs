@@ -1,6 +1,6 @@
 ## Heading
 
-This index includes a database of cleaned or transcribed treaty texts, each with its source PDF. Use of these files must credit Aya Hamza as compiler and owner. **For access, contact:** ahamza3141@gmail.com.
+This index includes a database of cleaned or transcribed treaty texts, each with its source PDF. Use of these files must credit Aya Hamza as compiler and owner.
 
 ---
 
