@@ -229,9 +229,9 @@ table td:nth-child(5) {
 
 table th:nth-child(6),
 table td:nth-child(6) {
-  width: 6rem; /* previously missing - assuming Amendment Protocol is 6th */
-  min-width: 6rem;
-  max-width: 6rem;
+  width: 6.5rem; /* previously missing - assuming Amendment Protocol is 6th */
+  min-width: 6.5rem;
+  max-width: 6.5rem;
   word-break: break-word;
   white-space: normal;
 }
