@@ -267,3 +267,26 @@ table td:nth-child(7) {
     max-width: 100%;
   }
 }
+
+/* Push footer to bottom and make it behave nicely */
+footer {
+  clear: both;
+  display: block;
+  width: 100%;
+  margin-top: 3rem;
+  padding: 2rem 1rem;
+  background-color: #f9f9f9;
+  text-align: center;
+  position: relative;
+}
+
+/* Optional: make the full page layout flex-based so footer sticks to bottom when little content */
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#main {
+  flex: 1;
+}
