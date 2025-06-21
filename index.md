@@ -2761,8 +2761,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p3"><span class="s1">No</span></p>
 </td>
 </tr>
-</tbody>
-</table> <!-- ✅ Properly close the table first -->
 
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
