@@ -1,4 +1,4 @@
-## A Public Database with All Egyptian BIT PDFs and Reviewed Texts
+## A Public Database of Egypt's BIT PDFs and Verified Texts
 
 This index includes a database of cleaned or transcribed treaty texts, each with its source PDF. Use of these files must credit Aya Hamza as the original compiler and owner.
 
