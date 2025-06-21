@@ -51,7 +51,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 </td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Saudi Arabia (2024)</span></span></p>
+  <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Saudi Arabia BIT (2024)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
