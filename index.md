@@ -12,25 +12,18 @@ Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transpa
 
 Paired with their source PDFs, this index includes 66 cleaned treaty text extractions, 14 transcriptions, and 32 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
 
-> **License:** Any use, distribution, or reproduction of the 514-page *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+> **License:** Any use, distribution, or reproduction of the 514-page *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
-> **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in two-column bilingual formats that complicate digitization. This index required extraction, cleaning, transcription, and formatting to produce a uniform, English-accessible database.
+> **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in two-column bilingual formats that complicate digitization. This index required independent extraction, cleaning, transcription, and formatting to produce a uniform, English-accessible database.
 
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
-<table id="bitTable" class="display" cellspacing="0" width="100%">
-  <thead>
-    <tr>
-      <th>Treaty Title</th>
-      <th>Status</th>
-      <th>Date of Signature</th>
-      <th>Date of Entry Into Force</th>
-      <th>Amendment Protocols</th>
-      <th>Side Instruments</th>
-      <th>Download</th>
-    </tr>
-  </thead>
-  <tbody>
+---
+
+<table cellpadding="0" cellspacing="0" class="t1">
+<tbody>
+<tr>
+<td class="td1" valign="middle" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"><b>Treaty Title</b></span></p>
 </td>
 <td class="td2" valign="middle" style="padding: 8px 12px; min-width: 140px;">
@@ -2824,19 +2817,3 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
-
-<!-- Load jQuery and DataTables -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
-
-<script>
-  $(document).ready(function() {
-    $('#bitTable').DataTable({
-      "paging": false,
-      "info": false,
-      "order": [],
-      "scrollX": true
-    });
-  });
-</script>
