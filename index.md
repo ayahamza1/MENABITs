@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Public Database of Egypt's BIT PDFs and Texts
+title: Public Database of Egypt's BIT PDFs and Texts
 permalink: /
 ---
 
