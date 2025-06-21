@@ -12,7 +12,7 @@ This index includes 66 extracted and cleaned, 14 transcribed, and 32 [World Trad
 
 > **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or EgyptianBITs.com database—including the transcriptions—is subject to recognizing Aya Hamza as the original compiler and rightful owner under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
-> Use of text files and the reproduction of this index in whole or part must credit Aya Hamza as the original compiler and owner.
+>> Use of text files and the reproduction of this index in whole or part must credit Aya Hamza as the original compiler and owner.
 
 > **Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)).
 
