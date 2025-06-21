@@ -57,7 +57,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Ethiopia BIT (2006)
 * Egypt – Germany BIT (2005)
 * Egypt – Serbia BIT (2005)
-** *Note: The penultimate two pages of the UNCTAD PDF are upside down, cutting into Article 9. It has been adjusted in the database to ease future extraction efforts.*
+  * *Note: The penultimate two pages of the UNCTAD PDF are upside down, cutting into Article 9. It has been adjusted in the database to ease future extraction efforts.*
 * Egypt – Finland BIT (2004)
 * Egypt – Thailand BIT (2000)
 * Australia – Egypt BIT (2001)
