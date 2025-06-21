@@ -2,45 +2,43 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
 
-      <!-- Logo Switcher -->
+      <!-- Logo Display -->
       <div class="logo-wrapper" style="text-align: center; margin-bottom: 1rem;">
-        <img src="{{ site.baseurl }}/public/dark-mode.png" alt="Logo for Light Mode" class="logo-img logo-light" style="height: 140px;">
-        <img src="{{ site.baseurl }}/public/light-mode.png" alt="Logo for Dark Mode" class="logo-img logo-dark" style="height: 140px;">
+        <img src="{{ site.baseurl }}/public/light-mode.png" alt="Aya Hamza Logo" class="logo-img" style="height: 140px;">
       </div>
 
-      <!-- Site Title -->
-<h1 class="sidebar-title">{{ site.title | markdownify }}</h1>
+      <!-- Site Title & Tagline -->
+      <h1 class="sidebar-title">{{ site.title | markdownify }}</h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-    
-<!-- Navigation -->
-<nav class="sidebar-nav">
-  <!-- Home link for root path -->
-  <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-  <!-- Read Me page -->
-  <a class="sidebar-nav-item{% if page.url == '/readme/' %} active{% endif %}" href="{{ site.baseurl }}/readme/">Read Me</a>
+    <!-- Navigation -->
+    <nav class="sidebar-nav">
+      <!-- Home link -->
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-  <!-- Dynamically include other pages (excluding Read Me and Home) -->
-  {% assign pages_list = site.pages %}
-  {% for node in pages_list %}
-    {% if node.title and node.layout == "page" and node.url != "/readme/" and node.url != "/" %}
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-    {% endif %}
-  {% endfor %}
+      <!-- Read Me -->
+      <a class="sidebar-nav-item{% if page.url == '/readme/' %} active{% endif %}" href="{{ site.baseurl }}/readme/">Read Me</a>
 
-  <!-- Knowledge@UChicago PDF -->
-  <a class="sidebar-nav-item" href="https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf" target="_blank">Knowledge@UChicago PDF</a>
+      <!-- Dynamically generated pages (excluding Home and Read Me) -->
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title and node.layout == "page" and node.url != "/readme/" and node.url != "/" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endfor %}
 
-  <!-- GitHub Repository -->
-  <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Repository</a>
-</nav>
+      <!-- Knowledge@UChicago PDF -->
+      <a class="sidebar-nav-item" href="https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf" target="_blank">Knowledge@UChicago PDF</a>
 
+      <!-- GitHub Repository -->
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Repository</a>
+    </nav>
 
-
-<p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">
-  &copy; Aya Hamza {{ site.time | date: '%Y' }}.<br>
-  All Rights Reserved.
-</p>
+    <!-- Footer -->
+    <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">
+      &copy; Aya Hamza {{ site.time | date: '%Y' }}.<br>
+      All Rights Reserved.
+    </p>
   </div>
 </div>
