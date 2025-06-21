@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Public Database of Egypt's BIT PDFs and Texts
@@ -13,9 +12,9 @@ Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transpa
 
 Paired with their source PDFs, this index includes 66 cleaned treaty text extractions, 14 transcriptions, and 32 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
 
-&gt; **License:** Any use, distribution, or reproduction of the 514-page *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&amp;v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+> **License:** Any use, distribution, or reproduction of the 514-page *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
-&gt; **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in two-column bilingual formats that complicate digitization. This index required extraction, cleaning, transcription, and formatting to produce a uniform, English-accessible database.
+> **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in two-column bilingual formats that complicate digitization. This index required extraction, cleaning, transcription, and formatting to produce a uniform, English-accessible database.
 
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
