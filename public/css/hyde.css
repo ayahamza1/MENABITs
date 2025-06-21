@@ -134,10 +134,10 @@ th, td {
 
 /* === Logo Styling === */
 .logo-img {
-  height: 120px;
+  height: 120px; /* or 50px, choose one */
   width: auto;
   display: block;
-  margin-bottom: 0.5rem; /* tighter spacing between logo and title */
+  margin-bottom: 1rem;
 }
 
 .logo-dark { display: none; }
@@ -159,17 +159,6 @@ body {
 .content {
   background-color: #ffffff;
   color: #000000;
-}
-
-.logo-img {
-  height: 50px;
-  margin-bottom: 1rem;
-}
-.logo-light {
-  display: block !important;
-}
-.logo-dark {
-  display: none !important;
 }
 
 /* === Amendment Protocol Column Specific === */
@@ -260,3 +249,21 @@ table td:nth-child(7) {
   padding-left: 0;
 }
 
+/* === Mobile Sidebar and Content Layout === */
+@media (max-width: 48em) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .content {
+    margin-left: 0;
+    padding: 1rem;
+    max-width: 100%;
+  }
+
+  .sidebar-sticky {
+    position: static;
+  }
+}
