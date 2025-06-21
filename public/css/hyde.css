@@ -222,9 +222,9 @@ table td:nth-child(4) {
 
 table th:nth-child(5),
 table td:nth-child(5) {
-  width: 6.5rem;
-  min-width: 6.5rem;
-  max-width: 6.5rem;
+  width: 6.0rem;
+  min-width: 6.0rem;
+  max-width: 6.0rem;
 }
 
 table th:nth-child(6),
