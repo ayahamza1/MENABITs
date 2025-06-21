@@ -14,9 +14,9 @@ All treaty formatting has been standardized to ease readability and interpretati
 ## BIT Transparency
 
 This index has yet to identify the following BITs:
-* Egypt - Saudi Arabia (2024)
-* Egypt – Serbia (1977)
-* Burundi – Egypt (2012)
+* Egypt - Saudi Arabia BIT (2024)
+* Burundi – Egypt BIT (2012)
+* Egypt – Serbia BIT (1977)
 
 ---
 
