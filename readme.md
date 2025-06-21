@@ -28,21 +28,21 @@ This index has yet to identify the following BITs:
 ---
 ## PDFs
 
-English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the WTI website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
+English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the World Trade Institute website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
 
 ### In Force:
 * Egypt – Sudan BIT (2001)
   
 ### Signed:
 * Egypt – Mozambique BIT (1998)
-*Note: WTI metadata links to a Portugese PDF.*
+*Note: World Trade Institute metadata links to a Portugese PDF.*
 * Egypt – United Republic of Tanzania BIT (1997)
   
 ### Terminated:
 * Egypt – Yemen BIT (1988)
 * Egypt – United Arab Emirates BIT (1988)
 * Egypt – Kuwait BIT (1966)
-*Note: WTI metadata links to an Arabic PDF.*
+*Note: World Trade Institute metadata links to an Arabic PDF.*
 
 ---
 
