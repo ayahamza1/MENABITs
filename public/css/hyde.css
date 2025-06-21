@@ -263,9 +263,9 @@ table td:nth-child(4) {
 
 table th:nth-child(5),
 table td:nth-child(5) {
-  width: 12rem;
-  min-width: 12rem;
-  max-width: 12rem;
+  width: 6rem;
+  min-width: 6rem;
+  max-width: 6rem;
 }
 
 table th:nth-child(5),
