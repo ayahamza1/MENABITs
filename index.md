@@ -4,7 +4,7 @@ title: Public Database of Egypt's BIT PDFs and Texts
 permalink: /
 ---
 
-## A reference for lawyers, academics, and policymakers.
+## Built for legal, academic, policy, and entrepreunerial reference.
 
 Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transparency in international investment law.
 
