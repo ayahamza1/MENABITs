@@ -248,13 +248,13 @@ table td:nth-child(7) {
   margin-left: 0;
   padding-left: 0;
 }
-
 /* === Mobile Sidebar and Content Layout === */
 @media (max-width: 48em) {
   .sidebar {
     position: relative;
     width: 100%;
     padding: 1rem;
+    background-color: #202020;
   }
 
   .sidebar-sticky {
