@@ -4,7 +4,7 @@ title: Read Me
 permalink: /readme/
 ---
 
-> **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license.
+> **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license. Use of text files or the [complete index](https://edit.wti.org/document/investment-treaty/search) must credit Aya Hamza as the original compiler and owner.
 
 > **Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
 
