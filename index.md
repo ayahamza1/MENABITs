@@ -2762,28 +2762,25 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 </td>
 </tr>
 
-<footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
+<footer style="clear: both; margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
     This database supports research and practice across law, academia, and industry.
   </p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
-    <!-- Tier 1: Universities -->
     <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
-      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/uchicago.png"/>
-      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/oxford.png"/>
+      <p style="font-weight: bold;">Academic Institutions</p>
+      <img src="{{ site.baseurl }}/public/logos/uchicago.png" height="40" />
+      <img src="{{ site.baseurl }}/public/logos/oxford.png" height="40" />
     </div>
-    <!-- Tier 2: Law Firms -->
     <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
-      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/freshfields.png"/>
-      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/cleary.png"/>
+      <p style="font-weight: bold;">Law Firms</p>
+      <img src="{{ site.baseurl }}/public/logos/freshfields.png" height="40" />
+      <img src="{{ site.baseurl }}/public/logos/cleary.png" height="40" />
     </div>
-    <!-- Tier 3: Business & Policy Groups -->
     <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy &amp; Business</p>
-      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/wti.png"/>
-      <img alt="Example" height="40" src="{{ site.baseurl }}/public/logos/unctad.png"/>
+      <p style="font-weight: bold;">Policy &amp; Business</p>
+      <img src="{{ site.baseurl }}/public/logos/wti.png" height="40" />
+      <img src="{{ site.baseurl }}/public/logos/unctad.png" height="40" />
     </div>
   </div>
 </footer>
