@@ -253,17 +253,17 @@ table td:nth-child(2) {
 
 table th:nth-child(3),
 table td:nth-child(3) {
-  width: 5.5rem;
+  width: 6rem;
 }
 
 table th:nth-child(4),
 table td:nth-child(4) {
-  width: 5.5rem;
+  width: 6rem;
 }
 
 table th:nth-child(5),
 table td:nth-child(5) {
-  width: 7rem;
+  width: 8rem;
 }
 
 table th:nth-child(6),
