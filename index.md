@@ -5,8 +5,13 @@ permalink: /
 ---
 
 Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transparency in international investment law.
-This index includes a database of 66 extracted and cleaned, 14 transcribed, and 32 [World Trade Institute](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf)-sourced translations of treaty texts, each with its source PDF. Use of text files or the [complete index](https://edit.wti.org/document/investment-treaty/search) must credit Aya Hamza as the original compiler and owner.
+
+This index includes a database of 66 extracted and cleaned, 14 transcribed, and 32 [World Trade Institute](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf)-sourced translations of treaty texts, each with its source PDF.
+
+Use of text files or the [complete index](https://edit.wti.org/document/investment-treaty/search) must credit Aya Hamza as the original compiler and owner.
+
 Intended as a reference for lawyers, academics, policymakers, and investors.
+
 For questions, contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
 <table cellpadding="0" cellspacing="0" class="t1">
