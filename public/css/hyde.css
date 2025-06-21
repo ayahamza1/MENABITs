@@ -96,7 +96,7 @@ html {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 25rem; /* previously 24rem */
+    margin-left: 21rem; /* or try 20rem, tweak as needed */
   }
 }
 
