@@ -19,7 +19,7 @@ Paired with their source PDFs, this index includes 66 cleaned treaty text extrac
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
 ---
-
+<table id="bitTable">
 <table cellpadding="0" cellspacing="0" class="t1">
 <tbody>
 <tr>
