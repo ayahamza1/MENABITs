@@ -19,8 +19,7 @@ Paired with their source PDFs, this index includes 66 cleaned treaty text extrac
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
 ---
-<table id="bitTable">
-<table cellpadding="0" cellspacing="0" class="t1">
+<table id="bitTable" class="display" cellspacing="0" width="100%">
 <tbody>
 <tr>
 <td class="td1" valign="middle" style="padding: 8px 12px; min-width: 140px;">
@@ -2818,8 +2817,18 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 
+<!-- Load jQuery and DataTables -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
+
 <script>
-  $(document).ready(function () {
-    $('#bitTable').DataTable();
+  $(document).ready(function() {
+    $('#bitTable').DataTable({
+      "paging": false,
+      "info": false,
+      "order": [],
+      "scrollX": true
+    });
   });
 </script>
