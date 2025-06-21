@@ -12,7 +12,7 @@ permalink: /readme/
 
 ## Formatting
 
-All treaty formatting has been standardized to ease readability and interpretation. Some grammatical errors (e.g., subject-verb disagreement) remain from their original texts to preserve their integrity.
+All treaty formatting has been standardized to ease readability and interpretation. Some grammatical errors (e.g., subject-verb disagreement) remain from their original texts to preserve integrity.
 
 ---
 
