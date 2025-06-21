@@ -1,5 +1,5 @@
 # The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index
-Any use, distribution, or reproduction of *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf)* or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
+Any use, distribution, or reproduction of *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
 © Aya Hamza 2025.
 All Rights Reserved.
