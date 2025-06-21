@@ -162,16 +162,15 @@ body {
 }
 
 .logo-img {
-  display: block;
+  height: 50px;
+  margin-bottom: 1rem;
 }
-
-/* Optional: Hide dark/light toggles if they exist */
-.logo-light,
+.logo-light {
+  display: block !important;
+}
 .logo-dark {
-  display: block;
+  display: none !important;
 }
-
-
 
 /* === Amendment Protocol Column Specific === */
 td.amendment-protocol {
