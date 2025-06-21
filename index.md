@@ -21,6 +21,13 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 ---
 
 <table cellpadding="0" cellspacing="0" class="t1">
+    <script>
+  $(document).ready(function() {
+    $('#treaties').DataTable({
+      pageLength: 25
+    });
+  });
+</script>
 <tbody>
 <tr>
 <td class="td1" style="padding: 8px 12px; min-width: 140px;" valign="middle">
