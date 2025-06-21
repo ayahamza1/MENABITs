@@ -8,13 +8,11 @@ Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transpa
 
 This index includes a database of 66 extracted and cleaned, 14 transcribed, and 32 [World Trade Institute](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf)-sourced translations of treaty texts, each with its source PDF.
 
-Intended as a reference for lawyers, academics, policymakers, and investors.
+Intended as a reference for lawyers, academics, policymakers, and investors. With questions, contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
 > **License:** Any use or distribution of "The Arab Republic of Egypt's Bilateral Investment Treaties: A Complete Index" database, including the transcriptions, is subject to recognizing Aya Hamza as the original compiler and rightful owner of the database under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license. Use of text files or the [complete index](https://edit.wti.org/document/investment-treaty/search) must credit Aya Hamza as the original compiler and owner.
 
 > **Disclaimer:** Rights to original treaty texts belong to their publishers (e.g., *Tractatenblad* for Egypt - Netherlands BIT (1996)). Reproduction of this index in whole or part must credit Aya Hamza.
-
-With questions, contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
 ---
 
