@@ -240,6 +240,13 @@ table th, table td {
   word-break: break-word;
 }
 
+/* Ensure table uses fixed layout for column widths to apply */
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
 /* Column widths */
 table th:nth-child(1),
 table td:nth-child(1) {
@@ -268,17 +275,21 @@ table td:nth-child(5) {
   max-width: 6rem;
 }
 
-table th:nth-child(5),
-table td:nth-child(5) {
-  width: 6rem;
+table th:nth-child(6),
+table td:nth-child(6) {
+  width: 6rem; /* previously missing - assuming Amendment Protocol is 6th */
+  min-width: 6rem;
+  max-width: 6rem;
+  word-break: break-word;
+  white-space: normal;
 }
-
 
 table th:nth-child(7),
 table td:nth-child(7) {
   width: 5rem;
   text-align: center;
 }
+
 
 .sidebar-about .lead {
   font-size: 0.75rem;
