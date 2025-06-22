@@ -2,14 +2,34 @@ like this? /* === Global resets === */
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (max-width: 48em) {
+@media (max-width: 768px) {
   .content {
-    margin-left: 0 !important;
+    margin: 0 !important;
     padding: 1rem !important;
     max-width: 100% !important;
+    width: 100% !important;
+    overflow-x: hidden !important;
+    box-sizing: border-box !important;
+  }
+
+  .sidebar {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 1rem !important;
+  }
+
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden !important;
+  }
+
+  html {
     overflow-x: hidden !important;
   }
 }
+
 @media (min-width: 58em) {
   html { font-size: 20px; }
 }
