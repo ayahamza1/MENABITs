@@ -2822,12 +2822,12 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 
 <div class="footer-info-box">
   <p>
-    This database supports research and legal practice across international institutions:
+    This database supports research and legal practice across institutions worldwide:
   </p>
 
   <!-- Tier 1: Universities -->
   <div class="footer-tier">
-    <p class="footer-tier-title">Academic Institutions</p>
+    <p class="footer-tier-title">Universities</p>
     <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example University" height="40">
       <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example University" height="40">
@@ -2845,7 +2845,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 
   <!-- Tier 3: Business & Policy Forums -->
   <div class="footer-tier">
-    <p class="footer-tier-title">Policy & Business</p>
+    <p class="footer-tier-title">Business and Policy Forums</p>
     <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example Policy" height="40">
       <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example Policy" height="40">
