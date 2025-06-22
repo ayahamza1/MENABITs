@@ -2545,7 +2545,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Iran, Islamic Republic of BIT (1977)</span></span></p>
+<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Islamic Republic of Iran BIT (1977)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
@@ -2563,8 +2563,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977)/Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977)/Egypt%20-%20Iran,%20Islamic%20Republic%20of%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977)/Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977)/Egypt%20-%20Islamic%Republic%20of%20Iran%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
