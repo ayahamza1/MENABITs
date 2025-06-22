@@ -2843,12 +2843,12 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     </div>
   </div>
 
-  <!-- Tier 3: Business & Policy Forums -->
+  <!-- Tier 3: Business and Policy Forums -->
   <div class="footer-tier">
     <p class="footer-tier-title">Business and Policy Forums</p>
     <div class="footer-logos">
-      <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example Policy" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example Policy" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example Forum" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example Forum" height="40">
     </div>
   </div>
 </div>
