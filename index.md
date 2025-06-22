@@ -10,7 +10,7 @@ permalink: /
 
 Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transparency in international investment law.
 
-Paired with their source PDFs, this index includes 66 cleaned BIT text extractions, 14 transcriptions, and 32 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
+Paired with their source PDFs, this index includes 66 cleaned BIT text extractions, 14 transcriptions, and 33 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
 
 > **License:** Any use, distribution, or reproduction of the 514-page *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
@@ -2667,7 +2667,31 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1976)/Egypt%20-%20Morocco%20BIT%20(1976).pdf">PDF<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"></span><br/></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1976)/Egypt%20-%20Morocco%20BIT%20(1976).txt">TXT<span class="s2"></span></a></span></p>
+</td>
+</tr>
+<tr>
+<td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Morocco BIT (1976)</span></span></p>
+</td>
+<td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p3"><span class="s1">Terminated</span></p>
+</td>
+<td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p3"><span class="s1">1976-03-06</span></p>
+</td>
+<td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p3"><span class="s1">1978-07-09</span></p>
+</td>
+<td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p3"><span class="s1">No</span></p>
+</td>
+<td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p3"><span class="s1">No</span></p>
+</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1997)/Egypt%20-%20Morocco%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1976)/Egypt%20-%20Morocco%20BIT%20(1976).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
