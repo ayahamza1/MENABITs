@@ -2828,7 +2828,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 
 <div class="footer-info-box">
   <p>
-    &copy; Aya Hamza 2025. All Rights Reserved.<br>
     This database supports research and legal practice across international institutions.
   </p>
 
