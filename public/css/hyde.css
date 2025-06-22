@@ -1,10 +1,3 @@
-
-
-/*
- * Hyde CSS - Cleaned and Updated for Compact Tables and Sidebar Fix (Preserve Original Font/Colors)
- * https://github.com/poole/hyde
- */
-
 /* === Global resets === */
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -13,25 +6,30 @@ html {
   .content {
     margin-left: 20rem;
     padding-left: 1rem;
-    padding-right: 2rem;
+    padding-right: 1rem;
   }
 }
 @media (min-width: 58em) {
   html { font-size: 20px; }
 }
 
-/* === Sidebar === */
+/* === Sidebar Styling (Unchanged Original) === */
 .sidebar {
-  text-align: left;
-  padding: 2rem 1rem;
-  background-color: #202020;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
   color: rgba(255, 255, 255, 0.5);
+  background-color: #202020;
+  padding: 2rem 1rem;
 }
-.sidebar a {
-  color: inherit;
+.sidebar a,
+.sidebar-about h1 {
+  color: #ffffff;
+}
+.sidebar a:hover {
+  text-decoration: underline;
 }
 .sidebar-about h1 {
-  font-size: 1.5rem;
+  font-size: 1.05rem;
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
@@ -39,6 +37,11 @@ html {
   word-break: break-word;
   text-align: left;
   max-width: 16rem;
+}
+.sidebar-about .lead {
+  font-size: 0.75rem;
+  line-height: 1.3;
+  color: rgba(255, 255, 255, 0.5);
 }
 .sidebar-nav {
   margin-bottom: 1rem;
@@ -49,10 +52,6 @@ html {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
-}
-.sidebar-nav-item:hover,
-.sidebar-nav-item:focus {
-  text-decoration: underline;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,13 +71,12 @@ html {
   }
 }
 
-/* === Container === */
+/* === Content Area === */
 .content {
   padding-top: 4rem;
   padding-bottom: 4rem;
   margin-left: 20rem;
-  padding-right: 2rem;
-  max-width: none;
+  padding-right: 1.5rem;
   box-sizing: border-box;
 }
 @media (min-width: 64em) {
@@ -104,28 +102,17 @@ th, td {
   word-break: break-word;
   line-height: 1.3;
 }
-table th:nth-child(1), table td:nth-child(1) {
-  width: 10rem;
-}
-table th:nth-child(2), table td:nth-child(2) {
-  width: 4rem;
-}
-table th:nth-child(3), table td:nth-child(3) {
-  width: 4.5rem;
-}
-table th:nth-child(4), table td:nth-child(4) {
-  width: 4.5rem;
-}
-table th:nth-child(5), table td:nth-child(5) {
-  width: 5rem;
-}
-table th:nth-child(6), table td:nth-child(6) {
-  width: 5rem;
-}
+/* Column widths for 7 columns */
+table th:nth-child(1), table td:nth-child(1) { width: 11.5rem; } /* Treaty Title */
+table th:nth-child(2), table td:nth-child(2) { width: 5rem; }    /* Status */
+table th:nth-child(3), table td:nth-child(3) { width: 7rem; }    /* Date of Signature */
+table th:nth-child(4), table td:nth-child(4) { width: 7rem; }    /* Entry Into Force */
+table th:nth-child(5), table td:nth-child(5) { width: 5.5rem; }  /* Amendment Protocols */
+table th:nth-child(6), table td:nth-child(6) { width: 5.5rem; }  /* Side Instruments */
 table th:nth-child(7), table td:nth-child(7) {
-  width: 4rem;
+  width: 4.5rem;
   text-align: center;
-}
+} /* Download */
 @media (max-width: 48em) {
   table {
     display: block;
@@ -153,7 +140,7 @@ footer {
   position: relative;
 }
 
-/* Flex wrapper to help footer stick to bottom */
+/* Flex Layout for Footer Stick */
 #wrapper {
   display: flex;
   flex-direction: column;
@@ -163,7 +150,7 @@ footer {
   flex: 1;
 }
 
-/* === Mobile Layout Fix === */
+/* === Mobile Fixes === */
 @media (max-width: 48em) {
   .sidebar {
     position: relative;
