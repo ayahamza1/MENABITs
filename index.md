@@ -2828,28 +2828,34 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
   });
 </script>
 
-  <div class="footer-info-box">
-    <p>
-      This database supports research and legal practice across international institutions:
-    </p>
 
-    <!-- Academic -->
-    <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
+<div class="custom-footer" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ccc;">
+  <p style="font-size: 0.9rem;">
+    This database supports research and legal practice across international institutions:
+  </p>
+
+  <!-- Tier 1 -->
+  <div class="footer-tier">
+    <p class="footer-tier-title">Universities</p>
+    <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example" height="40">
       <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example" height="40">
     </div>
+  </div>
 
-    <!-- Law Firms -->
-    <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
+  <!-- Tier 2 -->
+  <div class="footer-tier">
+    <p class="footer-tier-title">Law Firms</p>
+    <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example3.png" alt="Example" height="40">
       <img src="{{ site.baseurl }}/public/logos/example4.png" alt="Example" height="40">
     </div>
+  </div>
 
-    <!-- Policy & Business -->
-    <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy & Business</p>
+  <!-- Tier 3 -->
+  <div class="footer-tier">
+    <p class="footer-tier-title">Business and Policy Forums</p>
+    <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example" height="40">
       <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example" height="40">
     </div>
