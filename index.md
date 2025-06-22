@@ -2833,7 +2833,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     This database supports research and legal practice across international institutions.
   </p>
 
-  <!-- Academic Tier -->
   <div class="footer-tier">
     <p class="footer-tier-title">Academic Institutions</p>
     <div class="footer-logos">
@@ -2842,7 +2841,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     </div>
   </div>
 
-  <!-- Law Firms Tier -->
   <div class="footer-tier">
     <p class="footer-tier-title">Law Firms</p>
     <div class="footer-logos">
@@ -2851,7 +2849,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     </div>
   </div>
 
-  <!-- Policy & Business Tier -->
   <div class="footer-tier">
     <p class="footer-tier-title">Policy & Business</p>
     <div class="footer-logos">
