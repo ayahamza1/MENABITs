@@ -2828,22 +2828,22 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
   });
 </script>
 
-
-<div class="custom-footer" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ccc;">
-  <p style="font-size: 0.9rem;">
-    This database supports research and legal practice across international institutions:
+<div class="footer-info-box">
+  <p>
+    &copy; Aya Hamza 2025. All Rights Reserved.<br>
+    This database supports research and legal practice across international institutions.
   </p>
 
-  <!-- Tier 1 -->
+  <!-- Academic Tier -->
   <div class="footer-tier">
-    <p class="footer-tier-title">Universities</p>
+    <p class="footer-tier-title">Academic Institutions</p>
     <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example" height="40">
       <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example" height="40">
     </div>
   </div>
 
-  <!-- Tier 2 -->
+  <!-- Law Firms Tier -->
   <div class="footer-tier">
     <p class="footer-tier-title">Law Firms</p>
     <div class="footer-logos">
@@ -2852,14 +2852,12 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     </div>
   </div>
 
-  <!-- Tier 3 -->
+  <!-- Policy & Business Tier -->
   <div class="footer-tier">
-    <p class="footer-tier-title">Business and Policy Forums</p>
+    <p class="footer-tier-title">Policy & Business</p>
     <div class="footer-logos">
       <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example" height="40">
       <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example" height="40">
     </div>
   </div>
 </div>
-
-<hr>
