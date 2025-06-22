@@ -21,80 +21,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 ---
 
 
-<div class="table-responsive">
-  <table id="treatyTable" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>Treaty Title</th>
-        <th>Status</th>
-        <th>Date of Signature</th>
-        <th>Date of Entry Into Force</th>
-        <th>Amendment Protocols</th>
-        <th>Side Instruments</th>
-        <th>Download</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Egypt - Saudi Arabia BIT (2024)</td>
-        <td>Signed</td>
-        <td>2024-10-10</td>
-        <td>—</td>
-        <td>—</td>
-        <td>—</td>
-        <td>PDF TXT</td>
-      </tr>
-      <tr>
-        <td>Egypt - Mauritius BIT (2014)</td>
-        <td>In Force</td>
-        <td>2014-06-25</td>
-        <td>2014-10-17</td>
-        <td>No</td>
-        <td>No</td>
-        <td>PDF</td>
-      </tr>
-      <tr>
-        <td>Burundi - Egypt BIT (2012)</td>
-        <td>Signed</td>
-        <td>2012-05-13</td>
-        <td>—</td>
-        <td>No</td>
-        <td>No</td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td>Egypt - Switzerland BIT (2010)</td>
-        <td>In Force</td>
-        <td>2010-06-07</td>
-        <td>2012-05-15</td>
-        <td>No</td>
-        <td>No</td>
-        <td>PDF TXT</td>
-      </tr>
-      <tr>
-        <td>Egypt - Iceland BIT (2008)</td>
-        <td>In Force</td>
-        <td>2008-01-08</td>
-        <td>2009-06-15</td>
-        <td>No</td>
-        <td>No</td>
-        <td>PDF TXT</td>
-      </tr>
-
-    </tbody>
-  </table>
-</div>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    if (window.jQuery && jQuery().DataTable) {
-      $('#treatyTable').DataTable({
-        paging: false
-      });
-    }
-  });
-</script>
-
-
 ---
 
 <table cellpadding="0" cellspacing="0" class="t1">
@@ -2894,6 +2820,72 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
+
+
+<div class="table-responsive">
+  <table id="treatyTable" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>Treaty Title</th>
+        <th>Status</th>
+        <th>Date of Signature</th>
+        <th>Date of Entry Into Force</th>
+        <th>Amendment Protocols</th>
+        <th>Side Instruments</th>
+        <th>Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>---</td><td>layout: page</td><td>title: Public Database of Egypt's BIT PDFs and Texts</td><td>permalink: /</td><td>---</td><td>—</td><td>—</td></tr>
+<tr><td><div class="table-responsive"></td><td>  <table id="treatyTable" class="display" style="width:100%"></td><td>    <thead></td><td>      <tr></td><td>        <th>Treaty Title</th></td><td>        <th>Status</th></td><td>—</td></tr>
+<tr><td>Egypt - Switzerland BIT (2010)</td><td>In Force</td><td>2010-06-07</td><td>2012-05-15</td><td>No</td><td>No</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Azerbaijan - Egypt BIT (2002)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Seychelles BIT (2002)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Sudan BIT (2001)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Eswatini BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Nigeria BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Zambia BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Pakistan BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Thailand BIT (2000)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Qatar BIT (1999)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Georgia BIT (1999)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Chile - Egypt BIT (1999)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Denmark - Egypt BIT (1999)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Portugal BIT (1999)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Congo, Democratic Republic of the - Egypt BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Mozambique BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Slovenia BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Cyprus - Egypt BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - State of Palestine BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Bosnia and Herzegovina - Egypt BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Mali BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Senegal BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Niger BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Gabon BIT (1997)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Croatia - Egypt BIT (1997)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Slovakia BIT (1997)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Poland BIT (1995)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Somalia BIT (1982)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>BLEU (Belgium-Luxembourg Economic Union) - Egypt BIT (1977)</td><td>Terminated</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td><script></td><td>  document.addEventListener("DOMContentLoaded", function () {</td><td>    if (window.jQuery && jQuery().DataTable) {</td><td>      $('#treatyTable').DataTable({</td><td>        pageLength: 25</td><td>      });</td><td>—</td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" class="t1"></td><td><tbody></td><td><tr></td><td><td class="td1" valign="middle" style="padding: 8px 12px; min-width: 140px;"></td><td><p class="p3"><span class="s1"><b>Treaty Title</b></span></p></td><td></td></td><td>—</td></tr>
+<tr><td>    <!-- Tier 1: Universities --></td><td>    <div></td><td>      <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p></td><td>      <img src="{{ site.baseurl }}/public/logos/uchicago.png" alt="Example" height="40"></td><td>      <img src="{{ site.baseurl }}/public/logos/oxford.png" alt="Example" height="40"></td><td>    </div></td><td>—</td></tr>
+<tr><td>    <!-- Tier 2: Law Firms --></td><td>    <div></td><td>      <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p></td><td>      <img src="{{ site.baseurl }}/public/logos/freshfields.png" alt="Example" height="40"></td><td>      <img src="{{ site.baseurl }}/public/logos/cleary.png" alt="Example" height="40"></td><td>    </div></td><td>—</td></tr>
+<tr><td>    <!-- Tier 3: Business & Policy Groups --></td><td>    <div></td><td>      <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy & Business</p></td><td>      <img src="{{ site.baseurl }}/public/logos/wti.png" alt="Example" height="40"></td><td>      <img src="{{ site.baseurl }}/public/logos/unctad.png" alt="Example" height="40"></td><td>    </div></td><td>—</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.jQuery && jQuery().DataTable) {
+      $('#treatyTable').DataTable({
+        paging: false
+      });
+    }
+  });
+</script>
+
 
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
@@ -2950,34 +2942,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 
 ---
 
-<div class="table-responsive">
-  <table id="treatyTable" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>Treaty Title</th>
-        <th>Status</th>
-        <th>Date of Signature</th>
-        <th>Date of Entry Into Force</th>
-        <th>Amendment Protocols</th>
-        <th>Side Instruments</th>
-        <th>Download</th>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
-</div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    if (window.jQuery && jQuery().DataTable) {
-      $('#treatyTable').DataTable({
-        pageLength: 25
-      });
-    }
-  });
-</script>
-
 ---
 
 <table cellpadding="0" cellspacing="0" class="t1">
@@ -5777,6 +5741,72 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
+
+
+<div class="table-responsive">
+  <table id="treatyTable" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>Treaty Title</th>
+        <th>Status</th>
+        <th>Date of Signature</th>
+        <th>Date of Entry Into Force</th>
+        <th>Amendment Protocols</th>
+        <th>Side Instruments</th>
+        <th>Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>---</td><td>layout: page</td><td>title: Public Database of Egypt's BIT PDFs and Texts</td><td>permalink: /</td><td>---</td><td>—</td><td>—</td></tr>
+<tr><td><div class="table-responsive"></td><td>  <table id="treatyTable" class="display" style="width:100%"></td><td>    <thead></td><td>      <tr></td><td>        <th>Treaty Title</th></td><td>        <th>Status</th></td><td>—</td></tr>
+<tr><td>Egypt - Switzerland BIT (2010)</td><td>In Force</td><td>2010-06-07</td><td>2012-05-15</td><td>No</td><td>No</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Azerbaijan - Egypt BIT (2002)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Seychelles BIT (2002)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Sudan BIT (2001)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Eswatini BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Nigeria BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Zambia BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Pakistan BIT (2000)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Thailand BIT (2000)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Qatar BIT (1999)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Georgia BIT (1999)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Chile - Egypt BIT (1999)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Denmark - Egypt BIT (1999)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Portugal BIT (1999)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Congo, Democratic Republic of the - Egypt BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Mozambique BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Slovenia BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Cyprus - Egypt BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - State of Palestine BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Bosnia and Herzegovina - Egypt BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Mali BIT (1998)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Senegal BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Niger BIT (1998)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Gabon BIT (1997)</td><td>Signed</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Croatia - Egypt BIT (1997)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Slovakia BIT (1997)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Poland BIT (1995)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>Egypt - Somalia BIT (1982)</td><td>In Force</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td>No</td><td>No</td><td>PDF</td><td>TXT</td><td>BLEU (Belgium-Luxembourg Economic Union) - Egypt BIT (1977)</td><td>Terminated</td><td><a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a> / <a href="PDF">PDF</a> / <a href="TXT">TXT</a></td></tr>
+<tr><td><script></td><td>  document.addEventListener("DOMContentLoaded", function () {</td><td>    if (window.jQuery && jQuery().DataTable) {</td><td>      $('#treatyTable').DataTable({</td><td>        pageLength: 25</td><td>      });</td><td>—</td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" class="t1"></td><td><tbody></td><td><tr></td><td><td class="td1" valign="middle" style="padding: 8px 12px; min-width: 140px;"></td><td><p class="p3"><span class="s1"><b>Treaty Title</b></span></p></td><td></td></td><td>—</td></tr>
+<tr><td>    <!-- Tier 1: Universities --></td><td>    <div></td><td>      <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p></td><td>      <img src="{{ site.baseurl }}/public/logos/uchicago.png" alt="Example" height="40"></td><td>      <img src="{{ site.baseurl }}/public/logos/oxford.png" alt="Example" height="40"></td><td>    </div></td><td>—</td></tr>
+<tr><td>    <!-- Tier 2: Law Firms --></td><td>    <div></td><td>      <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p></td><td>      <img src="{{ site.baseurl }}/public/logos/freshfields.png" alt="Example" height="40"></td><td>      <img src="{{ site.baseurl }}/public/logos/cleary.png" alt="Example" height="40"></td><td>    </div></td><td>—</td></tr>
+<tr><td>    <!-- Tier 3: Business & Policy Groups --></td><td>    <div></td><td>      <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy & Business</p></td><td>      <img src="{{ site.baseurl }}/public/logos/wti.png" alt="Example" height="40"></td><td>      <img src="{{ site.baseurl }}/public/logos/unctad.png" alt="Example" height="40"></td><td>    </div></td><td>—</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.jQuery && jQuery().DataTable) {
+      $('#treatyTable').DataTable({
+        paging: false
+      });
+    }
+  });
+</script>
+
 
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
