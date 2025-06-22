@@ -2825,29 +2825,33 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     &copy; Aya Hamza 2025. All Rights Reserved.<br>
     This database supports research and legal practice across international institutions:
   </p>
-</div>
 
-    <!-- Tier 1: Universities -->
-    <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
-      <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example" height="40">
+  <!-- Tier 1: Universities -->
+  <div class="footer-tier">
+    <p class="footer-tier-title">Academic Institutions</p>
+    <div class="footer-logos">
+      <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example University" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example University" height="40">
     </div>
-
-    <!-- Tier 2: Law Firms -->
-    <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
-      <img src="{{ site.baseurl }}/public/logos/example3.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example4.png" alt="Example" height="40">
-    </div>
-
-    <!-- Tier 3: Business & Policy Forums -->
-    <div>
-      <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy & Business</p>
-      <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example" height="40">
-    </div>
-
   </div>
+
+  <!-- Tier 2: Law Firms -->
+  <div class="footer-tier">
+    <p class="footer-tier-title">Law Firms</p>
+    <div class="footer-logos">
+      <img src="{{ site.baseurl }}/public/logos/example3.png" alt="Example Firm" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example4.png" alt="Example Firm" height="40">
+    </div>
+  </div>
+
+  <!-- Tier 3: Business & Policy Forums -->
+  <div class="footer-tier">
+    <p class="footer-tier-title">Policy & Business</p>
+    <div class="footer-logos">
+      <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example Policy" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example Policy" height="40">
+    </div>
+  </div>
+</div>
 
 <hr>
