@@ -51,4 +51,42 @@
     }
   </style>
 {% include analytics.html %}
+  <style>
+  @media (max-width: 768px) {
+    .sidebar {
+      position: relative !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      padding: 1rem !important;
+      display: block !important;
+    }
+
+    .sidebar-sticky {
+      position: static !important;
+    }
+
+    .content {
+      margin: 0 !important;
+      padding: 1rem !important;
+      max-width: 100% !important;
+      width: 100% !important;
+      overflow-x: hidden !important;
+      box-sizing: border-box !important;
+      flex: none !important;
+    }
+
+    body, html {
+      overflow-x: hidden !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    table {
+      display: block !important;
+      overflow-x: auto !important;
+      -webkit-overflow-scrolling: touch !important;
+    }
+  }
+</style>
+
 </head>
