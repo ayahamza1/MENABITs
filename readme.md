@@ -22,7 +22,8 @@ This index has yet to identify the following BITs:
 
 ## BIT Text Retrieval
 
-The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were used to scrape texts from UNCTAD or other available English PDFs. The extractions were cleaned, missing data inputted, and visually cross-referenced with originals.
+The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were used to scrape texts from the United Nations Conference on Trade and Development [(UNCTAD)](https://investmentpolicy.unctad.org/international-investment-agreements/countries/62/egypt)
+, if unavailable, English PDFs available elsewhere (locations included below). The extractions were cleaned, missing data inputted, and visually cross-referenced with originals.
 
 ---
 
@@ -44,7 +45,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Slovenia BIT (1998)
 * Cyprus – Egypt BIT (1998)
 * Bulgaria – Egypt BIT (1998)
-  * Note: Article 6, Line (c) is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.
+  * Note: Article 6, Line (c) is cut off in the UNCTAD PDF; sourced the missing text from WTI.
 * Bosnia and Herzegovina – Egypt BIT (1998)
   * Note: Article 12 is missing from the UNCTAD PDF.
 * Croatia – Egypt BIT (1997)
@@ -86,7 +87,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
   * Note: UNCTAD does not host a PDF; found on the Juris Arbitration Law website.
 * Egypt – Seychelles BIT (2002)
 * Egypt – Eswatini BIT (2000)
-  * Note: The Preamble through Article 2, Section 1, and Article 10, Section 4 onwards are missing in the PDF and were sourced from the World Trade Institute website.
+  * Note: The Preamble through Article 2, Section 1, and Article 10, Section 4 onwards are missing in the PDF and were sourced from the WTI website.
 * Egypt – Nigeria BIT (2000)
 * Egypt – Zambia BIT (2000)
 * Egypt – Pakistan BIT (2000)
@@ -94,7 +95,7 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 * Egypt – Georgia BIT (1999)
 * Chile – Egypt BIT (1999)
 * Egypt – Zimbabwe BIT (1999)
-  * Note: Article 12, Section 2 is cut off in the UNCTAD PDF; sourced the missing text from the World Trade Institute.
+  * Note: Article 12, Section 2 is cut off in the UNCTAD PDF; sourced the missing text from WTI.
 * Egypt – Jamaica BIT (1999)
 * Egypt – South Africa BIT (1998)
 * Egypt – Ghana BIT (1998)
@@ -121,24 +122,24 @@ The `PyPDF2`, `pdfminer.six`, `pdfplumber`, and `PyMuPDF` Python packages were u
 #### Terminated
 * Egypt – Indonesia BIT (1994)
 
-English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the World Trade Institute website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
+English PDFs for Spain and Botswana, while unavailable from UNCTAD, were sourced from the United Nations Treaty Collection and the Juris Arbitration Law websites, respectively. A handful of treaties are exclusively found on the WTI website. Of those listed, only the Tanzania BIT was identified elsewhere on the Oxford University Press Law website
 
 #### In Force:
 * Egypt – Sudan BIT (2001)
   
 #### Signed:
 * Egypt – Mozambique BIT (1998)
-  * Note: World Trade Institute metadata links to a Portuguese PDF.
+  * Note: WTI metadata links to a Portuguese PDF.
 * Egypt – United Republic of Tanzania BIT (1997)
   
 #### Terminated:
 * Egypt – Yemen BIT (1988)
 * Egypt – United Arab Emirates BIT (1988)
 * Egypt – Kuwait BIT (1966)
-  * Note: World Trade Institute metadata links to an Arabic PDF.
+  * Note: WTI metadata links to an Arabic PDF.
 
 ---
-Treaties provided by UNCTAD in languages other than English are included and sourced from the World Trade Institute. Formatting, typographical, and grammatical corrections are the only modifications to the texts.
+Treaties provided by UNCTAD in languages other than English are included and sourced from WTI. Formatting, typographical, and grammatical corrections are the only modifications to the texts.
 
 ### Only Arabic
 #### In Force
@@ -193,7 +194,7 @@ Treaties provided by UNCTAD in languages other than English are included and sou
 #### Signed
 * Azerbaijan – Egypt BIT (2002)
 
-### Only Text Found Is in English From the World Trade Institute
+### Only Text Found Is in English From WTI
 #### Terminated
 * Egypt – Morocco BIT (1976)
  * Note: No PDF in any language was found online.
