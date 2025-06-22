@@ -2818,13 +2818,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
     }
   });
 
-  th:nth-child(1), td:nth-child(1) { width: 16rem; }  /* Treaty Title */
-th:nth-child(2), td:nth-child(2) { width: 7rem; }
-th:nth-child(3), td:nth-child(3),
-th:nth-child(4), td:nth-child(4) { width: 8rem; }
-th:nth-child(5), td:nth-child(5),
-th:nth-child(6), td:nth-child(6),
-th:nth-child(7), td:nth-child(7) { width: 6rem; text-align: center; }
 </script>
 ---
 
