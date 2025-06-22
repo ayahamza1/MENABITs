@@ -2855,35 +2855,3 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     </div>
   </div>
 </div>
-
-
-<div class="footer-info-box">
-  <p>
-    &copy; Aya Hamza 2025. All Rights Reserved.<br>
-    This database supports research and legal practice across international institutions.
-  </p>
-
-  <div class="footer-tier">
-    <p class="footer-tier-title">Academic Institutions</p>
-    <div class="footer-logos">
-      <img src="/public/logos/example1.png" alt="Example 1" height="40">
-      <img src="/public/logos/example2.png" alt="Example 2" height="40">
-    </div>
-  </div>
-
-  <div class="footer-tier">
-    <p class="footer-tier-title">Law Firms</p>
-    <div class="footer-logos">
-      <img src="/public/logos/example3.png" alt="Example 3" height="40">
-      <img src="/public/logos/example4.png" alt="Example 4" height="40">
-    </div>
-  </div>
-
-  <div class="footer-tier">
-    <p class="footer-tier-title">Policy & Business</p>
-    <div class="footer-logos">
-      <img src="/public/logos/example5.png" alt="Example 5" height="40">
-      <img src="/public/logos/example6.png" alt="Example 6" height="40">
-    </div>
-  </div>
-</div>
