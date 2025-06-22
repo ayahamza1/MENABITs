@@ -2673,30 +2673,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Morocco BIT (1976)</span></span></p>
-</td>
-<td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">Terminated</span></p>
-</td>
-<td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">1976-03-06</span></p>
-</td>
-<td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">1978-07-09</span></p>
-</td>
-<td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">No</span></p>
-</td>
-<td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">No</span></p>
-</td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1997)/Egypt%20-%20Morocco%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Morocco%20BIT%20(1976)/Egypt%20-%20Morocco%20BIT%20(1976).txt">TXT<span class="s2"></span></a></span></p>
-</td>
-</tr>
-<tr>
-<td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Romania BIT (1976)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
