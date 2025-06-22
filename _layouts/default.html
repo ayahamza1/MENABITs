@@ -1,120 +1,13 @@
 
+
 <!DOCTYPE html>
 <html lang="en-us">
 
-
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NHNWD5N9V3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-NHNWD5N9V3');
-</script>
-
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-
-  <!-- Favicon and App Icons -->
-  <link rel="icon" href="{{ site.baseurl }}/public/favicon-light.ico" type="image/x-icon" media="(prefers-color-scheme: dark)">
-  <link rel="icon" href="{{ site.baseurl }}/public/favicon-dark.ico" type="image/x-icon" media="(prefers-color-scheme: light)">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon-dark.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/public/apple-touch-icon.png">
-  <link rel="manifest" href="{{ site.baseurl }}/public/site.webmanifest">
-  <meta name="apple-mobile-web-app-title" content="Egypt's BITs">
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}/atom.xml">
-
-  <!-- jQuery + DataTables JS -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-
-  <!-- Logo Toggle -->
-  <style>
-    .logo-img {
-      height: 50px;
-      margin-bottom: 1rem;
-    }
-    @media (prefers-color-scheme: dark) {
-      .logo-light { display: none; }
-      .logo-dark { display: inline; }
-    }
-    @media (prefers-color-scheme: light) {
-      .logo-light { display: inline; }
-      .logo-dark { display: none; }
-    }
-  </style>
-</head>
+  {% include head.html %}
 
   <body>
 
-
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-
-      <!-- Logo Display -->
-      <div class="logo-wrapper" style="text-align: center; margin-bottom: 1rem;">
-        <img src="{{ site.baseurl }}/public/dark-mode.png" alt="Aya Hamza Logo" class="logo-img" style="height: 140px;">
-      </div>
-
-      <!-- Site Title & Tagline -->
-      <h1 class="sidebar-title">{{ site.title | markdownify }}</h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
-
-    <!-- Navigation -->
-    <nav class="sidebar-nav">
-      <!-- Home link -->
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-
-      <!-- Read Me -->
-      <a class="sidebar-nav-item{% if page.url == '/readme/' %} active{% endif %}" href="{{ site.baseurl }}/readme/">Read Me</a>
-
-      <!-- Dynamically generated pages (excluding Home and Read Me) -->
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title and node.layout == "page" and node.url != "/readme/" and node.url != "/" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endfor %}
-
-      <!-- Knowledge@UChicago PDF -->
-      <a class="sidebar-nav-item" href="https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf" target="_blank">Knowledge@UChicago PDF</a>
-
-<!-- GitHub Repository -->
-<a class="sidebar-nav-item" href="https://github.com/YOURUSERNAME/YOURREPO" target="_blank">GitHub Repository</a>
-
-<span class="sidebar-nav-item">Currently v1.0</span>
-<span class="sidebar-nav-item">Last updated: {{ site.time | date: "%B %d, %Y" }}</span>
-
-    <!-- Footer -->
-    <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">
-      &copy; Aya Hamza {{ site.time | date: '%Y' }}.<br>
-      All Rights Reserved.
-    </p>
-  </div>
-</div>
+    {% include sidebar.html %}
 
     <div class="content container">
       {{ content }}
