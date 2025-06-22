@@ -19,7 +19,22 @@ Paired with their source PDFs, this index includes 66 cleaned treaty text extrac
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
 ---
-Treaty Title
+
+<div class="table-responsive">
+  <table id="treatyTable" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>Treaty Title</th>
+        <th>Status</th>
+        <th>Date of Signature</th>
+        <th>Date of Entry Into Force</th>
+        <th>Amendment Protocols</th>
+        <th>Side Instruments</th>
+        <th>Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      Treaty Title
 Status
 Date of Signature
 Date of Entry Into Force
@@ -920,21 +935,6 @@ No
 No
 PDF
 TXT
-
-<div class="table-responsive">
-  <table id="treatyTable" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>Treaty Title</th>
-        <th>Status</th>
-        <th>Date of Signature</th>
-        <th>Date of Entry Into Force</th>
-        <th>Amendment Protocols</th>
-        <th>Side Instruments</th>
-        <th>Download</th>
-      </tr>
-    </thead>
-    <tbody>
     </tbody>
   </table>
 </div>
