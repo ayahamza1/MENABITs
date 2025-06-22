@@ -35,30 +35,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
     </thead>
     <tbody>
     <tr>
-<td class="td1" valign="middle" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"><b>Treaty Title</b></span></p>
-</td>
-<td class="td2" valign="middle" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"><b>Status</b></span></p>
-</td>
-<td class="td3" valign="middle" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"><b>Date of Signature</b></span></p>
-</td>
-<td class="td4" valign="middle" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"><b>Date of Entry Into Force</b></span></p>
-</td>
-<td class="amendment-protocol" style="padding: 4px 8px; max-width: 100px; white-space: normal; overflow-wrap: break-word;">
-  <p class="break">
-    <span class="s1"><b>Amendment Protocols</b></span><wbr>
-  </p>
-</td>
-<td class="td6" valign="middle" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"><b>Side Instruments</b></span></p>
-</td>
-<td class="td7" valign="middle" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"><b>Download</b></span></p>
-</td>
-<tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
   <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Saudi Arabia BIT (2024)</span></span></p>
 </td>
@@ -2829,9 +2805,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
-    </tbody>
-  </table>
-</div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
