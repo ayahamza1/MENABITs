@@ -107,31 +107,31 @@ th, td {
 /* === Column widths for 7 columns === */
 table th:nth-child(1),
 table td:nth-child(1) {
-  width: 13rem; /* Treaty Title */
+  width: 9rem; /* Treaty Title */
 }
 table th:nth-child(2),
 table td:nth-child(2) {
-  width: 5.5rem; /* Status */
+  width: 5rem; /* Status */
 }
 table th:nth-child(3),
 table td:nth-child(3) {
-  width: 6rem; /* Date of Signature */
+  width: 5rem; /* Date of Signature */
 }
 table th:nth-child(4),
 table td:nth-child(4) {
-  width: 6rem; /* Date of Entry Into Force */
+  width: 5rem; /* Date of Entry Into Force */
 }
 table th:nth-child(5),
 table td:nth-child(5) {
-  width: 5.5rem; /* Amendment Protocols */
+  width: 5rem; /* Amendment Protocols */
 }
 table th:nth-child(6),
 table td:nth-child(6) {
-  width: 6rem; /* Side Instruments */
+  width: 5rem; /* Side Instruments */
 }
 table th:nth-child(7),
 table td:nth-child(7) {
-  width: 5rem; /* Download */
+  width: 4rem; /* Download */
   text-align: center;
 }
 
