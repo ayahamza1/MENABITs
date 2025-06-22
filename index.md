@@ -2825,33 +2825,3 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     }
   });
 </script>
-
-<div class="footer-info-box">
-  <p>
-    This database supports investment research and legal practice worldwide.
-  </p>
-
-  <div class="footer-tier">
-    <p class="footer-tier-title">Academic Institutions</p>
-    <div class="footer-logos">
-      <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example" height="40">
-    </div>
-  </div>
-
-  <div class="footer-tier">
-    <p class="footer-tier-title">Law Firms</p>
-    <div class="footer-logos">
-      <img src="{{ site.baseurl }}/public/logos/example3.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example4.png" alt="Example" height="40">
-    </div>
-  </div>
-
-  <div class="footer-tier">
-    <p class="footer-tier-title">Business and Policy Forums</p>
-    <div class="footer-logos">
-      <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example" height="40">
-    </div>
-  </div>
-</div>
