@@ -2818,14 +2818,14 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
   document.addEventListener("DOMContentLoaded", function () {
     if (window.jQuery && jQuery().DataTable) {
       $('#treatyTable').DataTable({
-        paging: false, // disables pagination
-        searching: true, // optional: keep search box
-        ordering: true,  // optional: keep column sorting
-        info: false      // optional: hide "Showing X of Y entries"
+        paging: false,
+        searching: true,
+        ordering: true,
+        info: false,
+        order: [[2, 'asc']] // Automatically sort by Date of Signature (3rd column)
       });
     }
   });
-
 </script>
 
 <div class="footer-info-box">
