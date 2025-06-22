@@ -1,28 +1,25 @@
 
-
 /*
- * Hyde CSS - Cleaned and Updated for Compact Tables and Sidebar Fix
- * https://github.com/poole/hyde
+ * Hyde CSS - Optimized for Full Table Display and No Overflow
  */
 
-/* === Global resets === */
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   .content {
-    margin-left: 20rem; /* same or more than .sidebar width */
+    margin-left: 20rem;
     padding-left: 1rem;
-    padding-right: 2rem;
+    padding-right: 1rem;
+    max-width: 100%;
+    box-sizing: border-box;
   }
 }
-
-
 @media (min-width: 58em) {
   html { font-size: 20px; }
 }
 
-/* === Sidebar === */
+/* Sidebar */
 .sidebar {
   text-align: left;
   padding: 2rem 1rem;
@@ -33,21 +30,16 @@ html {
     top: 0;
     bottom: 0;
     left: 0;
-    width: 20rem; /* adjust if needed */
+    width: 20rem;
     padding: 2rem 1rem;
     overflow-y: auto;
-    background-color: #202020; /* or whatever theme you're using */
+    background-color: #202020;
     z-index: 1;
   }
 }
-
-.sidebar a {
-  color: inherit;
-}
-
-/* ✅ Fixed this block: allow title wrapping inside sidebar */
+.sidebar a { color: inherit; }
 .sidebar-about h1 {
-  font-size: 1.05rem; /* or try 1.2rem if you want a smaller bump */
+  font-size: 1.05rem;
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
@@ -56,19 +48,13 @@ html {
   text-align: left;
   max-width: 16rem;
 }
-
-.sidebar-nav {
-  margin-bottom: 1rem;
-}
+.sidebar-nav { margin-bottom: 1rem; }
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
 }
-.sidebar-nav-item.active {
-  font-weight: bold;
-}
-.sidebar-nav-item:hover,
-.sidebar-nav-item:focus {
+.sidebar-nav-item.active { font-weight: bold; }
+.sidebar-nav-item:hover, .sidebar-nav-item:focus {
   text-decoration: underline;
 }
 @media (min-width: 48em) {
@@ -80,37 +66,29 @@ html {
   }
 }
 
-/* === Container === */
+/* Content */
 .content {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  background-color: #ffffff;
+  color: #000000;
 }
-@media (min-width: 48em) {
-  .content {
-    margin-left: 17.5rem; /* slightly less space from sidebar */
-    max-width: 880px;     /* narrows total width */
-    padding: 2rem 2.5rem 2rem 1.5rem; /* fine-tuned for visual centering */
-    box-sizing: border-box;
-  }
-}
-
-
 @media (min-width: 64em) {
   .content {
-    margin-left: 21rem; /* or try 20rem, tweak as needed */
+    margin-left: 21rem;
   }
 }
 
-/* === Table Styling: Compact and Clean === */
+/* Table */
 table {
   width: 100%;
   font-size: 0.85rem;
   border-collapse: collapse;
-  table-layout: auto;
+  table-layout: fixed;
   margin: 1rem 0;
 }
 th, td {
-  padding: 0.3rem 0.5rem;
+  padding: 0.3rem 0.4rem;
   text-align: left;
   vertical-align: top;
   border-bottom: 1px solid #ccc;
@@ -118,158 +96,23 @@ th, td {
   word-break: break-word;
   line-height: 1.3;
 }
+th:nth-child(1), td:nth-child(1) { width: 12rem; }
+th:nth-child(2), td:nth-child(2) { width: 6rem; }
+th:nth-child(3), td:nth-child(3),
+th:nth-child(4), td:nth-child(4) { width: 6rem; }
+th:nth-child(5), td:nth-child(5),
+th:nth-child(6), td:nth-child(6) { width: 6rem; }
+th:nth-child(7), td:nth-child(7) { width: 6rem; text-align: center; }
+
 @media (max-width: 48em) {
   table {
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
-  table::-webkit-scrollbar {
-    height: 8px;
-  }
-  table::-webkit-scrollbar-thumb {
-    background: #ccc;
-    border-radius: 4px;
-  }
 }
 
-/* === Logo Styling === */
-.logo-img {
-  height: 120px; /* or 50px, choose one */
-  width: auto;
-  display: block;
-  margin-bottom: 1rem;
-}
-
-.logo-light { display: none; }
-body {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-.sidebar {
-  background-color: #202020;
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.sidebar a,
-.sidebar-about h1 {
-  color: #ffffff;
-}
-
-.content {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-/* === Amendment Protocol Column Specific === */
-td.amendment-protocol {
-  max-width: 140px;
-  min-width: 90px;
-  white-space: normal;
-  word-break: break-word;
-}
-table {
-  width: 100%;
-  table-layout: fixed;
-  border-collapse: collapse;
-}
-
-table th, table td {
-  padding: 0.5rem;
-  white-space: normal;
-  word-break: break-word;
-}
-
-/* Ensure table uses fixed layout for column widths to apply */
-table {
-  table-layout: fixed;
-  width: 100%;
-  border-collapse: collapse;
-}
-
-/* Column widths */
-table th:nth-child(1),
-table td:nth-child(1) {
-  width: 13rem;
-}
-
-table th:nth-child(2),
-table td:nth-child(2) {
-  width: 5.5rem;
-}
-
-table th:nth-child(3),
-table td:nth-child(3) {
-  width: 6.0rem;
-}
-
-table th:nth-child(4),
-table td:nth-child(4) {
-  width: 6rem;
-}
-
-table th:nth-child(5),
-table td:nth-child(5) {
-  width: 5.5rem;
-  min-width: 5.5rem;
-  max-width: 5.5rem;
-}
-
-table th:nth-child(6),
-table td:nth-child(6) {
-  width: 6.0rem;
-  min-width: 6.0rem;
-  max-width: 6.0rem;
-  word-break: break-word;
-  white-space: normal;
-}
-
-table th:nth-child(7),
-table td:nth-child(7) {
-  width: 5rem;
-  text-align: center;
-}
-
-
-.sidebar-about .lead {
-  font-size: 0.75rem;
-  line-height: 1.3;
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.table-container {
-  margin: 0 auto;
-  max-width: 100%;
-  padding: 0;
-}
-
-.table-container h1,
-.table-container p {
-  margin-left: 0;
-  padding-left: 0;
-}
-/* === Mobile Sidebar and Content Layout === */
-@media (max-width: 48em) {
-  .sidebar {
-    position: relative;
-    width: 100%;
-    padding: 1rem;
-    background-color: #202020;
-  }
-
-  .sidebar-sticky {
-    position: static;
-  }
-
-  .content {
-    margin-left: 0;
-    padding: 1rem;
-    max-width: 100%;
-  }
-}
-
-/* Push footer to bottom and make it behave nicely */
+/* Footer */
 footer {
   clear: both;
   display: block;
@@ -281,13 +124,11 @@ footer {
   position: relative;
 }
 
-/* Optional: make the full page layout flex-based so footer sticks to bottom when little content */
 #wrapper {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
-
 #main {
   flex: 1;
 }
