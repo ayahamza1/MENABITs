@@ -1390,8 +1390,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Democratic%20People's%20Republic%20of%20Korea%20BIT%20(1997)/Egypt%20-Democratic%People's%20Republic%20of%20Korea%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>  
-<p class="p4"><span class="s1"><a href="Egypt%20-%20Democratic%20People's%20Republic%20of%20Korea%20BIT%20(1997)/Egypt%20-Democratic%People's%20Republic%20of%20Korea%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Democratic%20People's%20Republic%20of%20Korea%20BIT%20(1997)/Egypt%20-Democratic%20People's%20Republic%20of%20Korea%20BIT%20(1997).pdf">PDF<span class="s2"></span></a></span></p>  
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Democratic%20People's%20Republic%20of%20Korea%20BIT%20(1997)/Egypt%20-Democratic%20People's%20Republic%20of%20Korea%20BIT%20(1997).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
