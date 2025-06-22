@@ -10,7 +10,7 @@ permalink: /
 
 Compiled by [Aya Hamza](https://www.linkedin.com/in/ayahamza) to advance transparency in international investment law.
 
-Paired with their published PDFs, this index includes 66 cleaned treaty text extractions, 14 transcriptions, and 33 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
+Paired with their PDFs, this index includes 66 cleaned treaty text extractions, 14 transcriptions, and 33 [World Trade Institute](https://edit.wti.org/document/investment-treaty/search)-sourced translations.
 
 > **License:** Any use, distribution, or reproduction of the 514-page *The Arab Republic of Egypt’s Bilateral Investment Treaties: A Complete Index* [PDF](https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf) or [EgyptianBITs.com](https://egyptianbits.com) text files in part or whole must credit Aya Hamza as the original compiler under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
