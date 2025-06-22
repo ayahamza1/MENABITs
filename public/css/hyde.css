@@ -167,23 +167,6 @@ footer {
   flex: 1;
 }
 
-/* === Mobile Fixes === */
-@media (max-width: 48em) {
-  .sidebar {
-    position: relative;
-    width: 100%;
-    padding: 1rem;
-  }
-  .sidebar-sticky {
-    position: static;
-  }
-  .content {
-    margin-left: 0;
-    padding: 1rem;
-    max-width: 100%;
-  }
-}
-
 .dataTables_filter {
   margin-bottom: 1rem; /* or try 1.5rem for a bit more space */
 }
