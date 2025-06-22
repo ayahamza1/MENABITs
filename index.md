@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Database of Egypt's BIT PDFs and Texts
+title: A Public Database of Egypt BIT PDFs and Texts
 permalink: /
 ---
 
@@ -2822,7 +2822,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
-    This database supports research and practice across law, academia, and industry.
+    This database supports research and legal practice across international institutions:
   </p>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
@@ -2830,22 +2830,22 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     <!-- Tier 1: Universities -->
     <div>
       <p style="font-weight: bold; margin-bottom: 0.5rem;">Academic Institutions</p>
-      <img src="{{ site.baseurl }}/public/logos/uchicago.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/oxford.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example1.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example2.png" alt="Example" height="40">
     </div>
 
     <!-- Tier 2: Law Firms -->
     <div>
       <p style="font-weight: bold; margin-bottom: 0.5rem;">Law Firms</p>
-      <img src="{{ site.baseurl }}/public/logos/freshfields.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/cleary.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example3.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example4.png" alt="Example" height="40">
     </div>
 
-    <!-- Tier 3: Business & Policy Groups -->
+    <!-- Tier 3: Business & Policy Forums -->
     <div>
       <p style="font-weight: bold; margin-bottom: 0.5rem;">Policy & Business</p>
-      <img src="{{ site.baseurl }}/public/logos/wti.png" alt="Example" height="40">
-      <img src="{{ site.baseurl }}/public/logos/unctad.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example5.png" alt="Example" height="40">
+      <img src="{{ site.baseurl }}/public/logos/example6.png" alt="Example" height="40">
     </div>
 
   </div>
