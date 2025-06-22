@@ -2820,12 +2820,12 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 
 </script>
 
-<footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
-  <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
+<div class="footer-info-box">
+  <p>
+    &copy; Aya Hamza 2025. All Rights Reserved.<br>
     This database supports research and legal practice across international institutions:
   </p>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+</div>
 
     <!-- Tier 1: Universities -->
     <div>
@@ -2849,8 +2849,5 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     </div>
 
   </div>
-
-
-</footer>
 
 <hr>
