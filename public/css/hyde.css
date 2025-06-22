@@ -1,3 +1,4 @@
+
 like this? /* === Global resets === */
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -94,7 +95,11 @@ html {
 .content {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  margin-left: 20rem;
+  padding-left: 3.5rem;
+  padding-right: 4rem;
   box-sizing: border-box;
+  max-width: calc(100vw - 20rem);
   overflow-x: hidden;
 }
 
