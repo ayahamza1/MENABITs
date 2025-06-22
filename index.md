@@ -34,25 +34,7 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
       </tr>
     </thead>
     <tbody>
-    </tbody>
-  </table>
-</div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    if (window.jQuery && jQuery().DataTable) {
-      $('#treatyTable').DataTable({
-        pageLength: 25
-      });
-    }
-  });
-</script>
-
----
-
-<table cellpadding="0" cellspacing="0" class="t1">
-<tbody>
-<tr>
+    <tr>
 <td class="td1" valign="middle" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"><b>Treaty Title</b></span></p>
 </td>
@@ -2847,6 +2829,21 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).pdf">PDF<span class="s2"></span></a></span></p>
 <p class="p4"><span class="s1"><a href="Egypt%20-%20Kuwait%20BIT%20(1966)/Egypt%20-%20Kuwait%20BIT%20(1966).txt">TXT<span class="s2"></span></a></span></p>
 </td>
+    </tbody>
+  </table>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.jQuery && jQuery().DataTable) {
+      $('#treatyTable').DataTable({
+        pageLength: 25
+      });
+    }
+  });
+</script>
+
+---
 
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
