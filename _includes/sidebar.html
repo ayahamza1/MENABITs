@@ -31,9 +31,15 @@
       <!-- Knowledge@UChicago PDF -->
       <a class="sidebar-nav-item" href="https://knowledge.uchicago.edu/record/14799?ln=en&v=pdf" target="_blank">Knowledge@UChicago PDF</a>
 
-      <!-- GitHub Repository -->
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Repository</a>
-    </nav>
+<!-- GitHub Repository -->
+<a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Repository</a>
+
+<!-- Version and Download -->
+<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+<a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+<span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+<span class="sidebar-nav-item">Last updated: {{ site.time | date: "%B %d, %Y" }}</span>
+
 
     <!-- Footer -->
     <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); margin-top: 2rem;">
