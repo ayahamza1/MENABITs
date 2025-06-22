@@ -3,8 +3,7 @@ layout: page
 title: A Public Database of Egypt BIT PDFs and Texts
 permalink: /
 ---
-<div id="wrapper">
-  <main id="main" class="content">
+
 ## Built for legal, academic, policy, and business reference.
 
 ---
@@ -2826,8 +2825,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     }
   });
 </script>
-
-</main>
 
 <div class="footer-info-box">
   <p>
