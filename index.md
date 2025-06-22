@@ -2810,7 +2810,10 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
   document.addEventListener("DOMContentLoaded", function () {
     if (window.jQuery && jQuery().DataTable) {
       $('#treatyTable').DataTable({
-        pageLength: 25
+        paging: false, // disables pagination
+        searching: true, // optional: keep search box
+        ordering: true,  // optional: keep column sorting
+        info: false      // optional: hide "Showing X of Y entries"
       });
     }
   });
