@@ -76,13 +76,11 @@ html {
   padding-top: 4rem;
   padding-bottom: 4rem;
   margin-left: 20rem;
-  padding-right: 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   box-sizing: border-box;
-}
-@media (min-width: 64em) {
-  .content {
-    margin-left: 20rem;
-  }
+  max-width: calc(100vw - 20rem);
+  overflow-x: hidden;
 }
 
 /* === Table Styling === */
