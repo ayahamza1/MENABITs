@@ -19,40 +19,57 @@ html {
   html { font-size: 20px; }
 }
 
-/* === Sidebar === */
+/* === Restore Sidebar Font and Appearance === */
 .sidebar {
-  text-align: left;
-  padding: 2rem 1rem;
-  background-color: #202020;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
   color: rgba(255, 255, 255, 0.5);
 }
+
 .sidebar a {
-  color: inherit;
+  color: #ffffff;
+  text-decoration: none;
 }
+
+.sidebar a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 .sidebar-about h1 {
-  font-size: 1.5rem;
-  line-height: 1.2;
+  font-size: 1.1rem;
+  line-height: 1.4;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
+  color: #ffffff;
   white-space: normal;
   word-break: break-word;
-  text-align: left;
-  max-width: 16rem;
 }
+
+.sidebar-about .lead {
+  font-size: 0.75rem;
+  line-height: 1.3;
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .sidebar-nav {
   margin-bottom: 1rem;
 }
+
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
 }
+
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+
 .sidebar-nav-item:hover,
 .sidebar-nav-item:focus {
   text-decoration: underline;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -63,6 +80,7 @@ html {
     overflow-y: auto;
     z-index: 1;
   }
+  
   .sidebar-sticky {
     position: absolute;
     right: 1rem;
