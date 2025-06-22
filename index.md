@@ -18,6 +18,8 @@ Paired with their source PDFs, this index includes 66 cleaned treaty text extrac
 
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
+---
+
   <div class="table-responsive" style="overflow-x: auto;">
   <table id="treatyTable" class="display" style="width:100%">
     <thead>
@@ -2817,7 +2819,6 @@ For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.c
   });
 
 </script>
----
 
 <footer style="margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; text-align: center;">
   <p style="font-size: 0.9rem; margin-bottom: 1.5rem;">
