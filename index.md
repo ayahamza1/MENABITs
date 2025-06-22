@@ -2559,11 +2559,9 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">No</span></p>
 </td>
-<td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">No</span></p>
-<td style="text-align: center; padding: 8px 12px; min-width: 140px;">
-  <a href="{{ site.baseurl }}/public/treaties/Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977)/Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977).pdf" target="_blank">PDF</a><br>
-  <a href="{{ site.baseurl }}/public/treaties/Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977)/Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977).txt" target="_blank">TXT</a>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977)/Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977).pdf">PDF<span class="s2"></span></a></span></p>  
+<p class="p4"><span class="s1"><a href="Egypt%20-%20Islamic%20Republic%20of%20Iran%20BIT%20(1977)/Egypt%20-%20Islamic%Republic%20of%20Iran%20BIT%20(1977).txt">TXT<span class="s2"></span></a></span></p>
 </td>
 </tr>
 <tr>
