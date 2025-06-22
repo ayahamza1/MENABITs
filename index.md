@@ -939,15 +939,7 @@ TXT
   </table>
 </div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    if (window.jQuery && jQuery().DataTable) {
-      $('#treatyTable').DataTable({
-        pageLength: 25
-      });
-    }
-  });
-</script>
+
 
 ---
 
@@ -3782,3 +3774,14 @@ TXT
 
 <hr>
  
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.jQuery && jQuery().DataTable) {
+      $('#treatyTable').DataTable({
+        paging: false,
+        info: false
+      });
+    }
+  });
+</script>
