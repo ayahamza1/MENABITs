@@ -1,3 +1,9 @@
+
+/*
+ * Hyde CSS - Cleaned and Updated for Compact Tables and Sidebar Fix (Preserve Original Font/Colors)
+ * https://github.com/poole/hyde
+ */
+
 /* === Global resets === */
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -17,25 +23,14 @@ html {
 .sidebar {
   text-align: left;
   padding: 2rem 1rem;
-}
-@media (min-width: 48em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 20rem;
-    padding: 2rem 1rem;
-    overflow-y: auto;
-    background-color: #202020;
-    z-index: 1;
-  }
+  background-color: #202020;
+  color: rgba(255, 255, 255, 0.5);
 }
 .sidebar a {
   color: inherit;
 }
 .sidebar-about h1 {
-  font-size: 1.05rem;
+  font-size: 1.5rem;
   line-height: 1.2;
   font-family: "Abril Fatface", serif;
   margin: 1rem 0 0.5rem 0;
@@ -59,11 +54,20 @@ html {
   text-decoration: underline;
 }
 @media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 20rem;
+    overflow-y: auto;
+    z-index: 1;
+  }
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
+    right: 1rem;
     bottom: 1rem;
-    left:   1rem;
+    left: 1rem;
   }
 }
 
@@ -71,22 +75,18 @@ html {
 .content {
   padding-top: 4rem;
   padding-bottom: 4rem;
-}
-@media (min-width: 48em) {
-  .content {
-    margin-left: 17.5rem;
-    max-width: 880px;
-    padding: 2rem 2.5rem 2rem 1.5rem;
-    box-sizing: border-box;
-  }
+  margin-left: 20rem;
+  padding-right: 2rem;
+  max-width: none;
+  box-sizing: border-box;
 }
 @media (min-width: 64em) {
   .content {
-    margin-left: 21rem;
+    margin-left: 20rem;
   }
 }
 
-/* === Table Styling: Compact and Clean === */
+/* === Table Styling === */
 table {
   width: 100%;
   font-size: 0.85rem;
@@ -103,39 +103,28 @@ th, td {
   word-break: break-word;
   line-height: 1.3;
 }
-
-/* === Column widths for 7 columns === */
-table th:nth-child(1),
-table td:nth-child(1) {
-  width: 9.5rem; /* Treaty Title */
+table th:nth-child(1), table td:nth-child(1) {
+  width: 9.5rem;
 }
-table th:nth-child(2),
-table td:nth-child(2) {
-  width: 5rem; /* Status */
+table th:nth-child(2), table td:nth-child(2) {
+  width: 5rem;
 }
-table th:nth-child(3),
-table td:nth-child(3) {
-  width: 5rem; /* Date of Signature */
+table th:nth-child(3), table td:nth-child(3) {
+  width: 5rem;
 }
-table th:nth-child(4),
-table td:nth-child(4) {
-  width: 5rem; /* Date of Entry Into Force */
+table th:nth-child(4), table td:nth-child(4) {
+  width: 5rem;
 }
-table th:nth-child(5),
-table td:nth-child(5) {
-  width: 5rem; /* Amendment Protocols */
+table th:nth-child(5), table td:nth-child(5) {
+  width: 5rem;
 }
-table th:nth-child(6),
-table td:nth-child(6) {
-  width: 5rem; /* Side Instruments */
+table th:nth-child(6), table td:nth-child(6) {
+  width: 5rem;
 }
-table th:nth-child(7),
-table td:nth-child(7) {
-  width: 4rem; /* Download */
+table th:nth-child(7), table td:nth-child(7) {
+  width: 4rem;
   text-align: center;
 }
-
-/* Mobile scroll */
 @media (max-width: 48em) {
   table {
     display: block;
@@ -151,33 +140,6 @@ table td:nth-child(7) {
   }
 }
 
-/* === Logo Styling === */
-.logo-img {
-  height: 120px;
-  width: auto;
-  display: block;
-  margin-bottom: 1rem;
-}
-.logo-light { display: none; }
-
-/* === Base Colors === */
-body {
-  background-color: #ffffff;
-  color: #000000;
-}
-.sidebar {
-  background-color: #202020;
-  color: rgba(255, 255, 255, 0.5);
-}
-.sidebar a,
-.sidebar-about h1 {
-  color: #ffffff;
-}
-.content {
-  background-color: #ffffff;
-  color: #000000;
-}
-
 /* === Footer === */
 footer {
   clear: both;
@@ -189,6 +151,8 @@ footer {
   text-align: center;
   position: relative;
 }
+
+/* Flex wrapper to help footer stick to bottom */
 #wrapper {
   display: flex;
   flex-direction: column;
@@ -196,4 +160,21 @@ footer {
 }
 #main {
   flex: 1;
+}
+
+/* === Mobile Layout Fix === */
+@media (max-width: 48em) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    padding: 1rem;
+  }
+  .sidebar-sticky {
+    position: static;
+  }
+  .content {
+    margin-left: 0;
+    padding: 1rem;
+    max-width: 100%;
+  }
 }
