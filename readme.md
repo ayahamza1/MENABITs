@@ -193,6 +193,11 @@ Treaties provided by UNCTAD in languages other than English are included and sou
 #### Signed
 * Azerbaijan – Egypt BIT (2002)
 
+### Only Text Found Is In English From The World Trade Institute
+#### Terminated
+* Egypt – Morocco BIT (1976)
+ * Note: No PDF in any language was found online.
+
 ---
 
 ## Recommendations
