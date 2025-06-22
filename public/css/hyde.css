@@ -107,7 +107,7 @@ th, td {
 /* === Column widths for 7 columns === */
 table th:nth-child(1),
 table td:nth-child(1) {
-  width: 9rem; /* Treaty Title */
+  width: 9.5rem; /* Treaty Title */
 }
 table th:nth-child(2),
 table td:nth-child(2) {
