@@ -16,8 +16,6 @@ Paired with their source PDFs, this index includes 66 cleaned treaty text extrac
 
 > **Disclaimer:** All treaty content remains the intellectual property of the original issuing authorities (e.g., *Tractatenblad* for the Egypt–Netherlands BIT (1996)). Many BITs were published in two-column bilingual formats that complicate digitization. This index required extraction, cleaning, transcription, and formatting to produce a uniform, English-accessible database.
 
----
-
 For inquiries or collaboration opportunities, please contact [ahamza3141@gmail.com](mailto:ahamza3141@gmail.com).
 
   <div class="table-responsive" style="overflow-x: auto;">
