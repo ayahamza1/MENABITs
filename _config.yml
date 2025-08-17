@@ -9,7 +9,7 @@ permalink: pretty
 title: "MENA Investment Hub"
 tagline: "An archive of the 113 publicly available of 116 Egyptian bilateral investment treaties (BITs), featuring verified texts and source PDFs."
 description: "An archive of the 113 publicly available of 116 Egyptian bilateral investment treaties (BITs), featuring verified texts and source PDFs."
-url: "https://egyptianbits.com" # custom domain
+url: "https://menainvestmenthub.com" # custom domain
 baseurl: "" # no subdirectory
 
 # Author
@@ -25,7 +25,7 @@ version: 2.1.0
 
 # GitHub Repo
 github:
-  repo: https://github.com/ayahamza1/EgyptianBITs
+  repo: https://github.com/ayahamza1/MENABITs
 
 # Plugins (used by GitHub Pages)
 plugins:
