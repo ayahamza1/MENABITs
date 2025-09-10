@@ -2951,10 +2951,10 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(2013)/Iraq%20-%20Kuwait%20BIT%20(2013).pdf">PDF</a></p>
@@ -2973,10 +2973,10 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Armenia%20-%20Iraq%20BIT%20(2012)/Armenia%20-%20Iraq%20BIT%20(2012).pdf">PDF</a></p>
@@ -2996,10 +2996,10 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Japan%20BIT%20(2012)/Iraq%20-%20Japan%20BIT%20(2012).pdf">PDF</a></p>
@@ -3019,10 +3019,10 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
                     <tr>
@@ -3039,10 +3039,10 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
                       <tr>
@@ -3059,10 +3059,10 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">No</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(1964)/Iraq%20-%20Kuwait%20BIT%20(1964).pdf">PDF</a></p>
