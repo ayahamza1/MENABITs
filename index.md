@@ -843,7 +843,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 </tr>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Congo, Democratic Republic of the - Egypt BIT (1998)</span></span></p>
+<p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Democratic Republic of the Congo - Egypt BIT (1998)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">Signed</span></p>
