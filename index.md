@@ -3067,7 +3067,6 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(1964)/Iraq%20-%20Kuwait%20BIT%20(1964).pdf">PDF</a></p>
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(1964)/Iraq%20-%20Kuwait%20BIT%20(1964).txt">TXT</a></p>
-</td>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     if (window.jQuery && jQuery().DataTable) {
