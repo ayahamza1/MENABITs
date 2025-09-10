@@ -3015,8 +3015,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><a href="Japan%20-%20Iraq%20BIT%20(2012)/Japan%20-%20Iraq%20BIT%20(2012).pdf">PDF</a></p>
-<p class="p4"><a href="Japan%20-%20Iraq%20BIT%20(2012)/Japan%20-%20Iraq%20BIT%20(2012).txt">TXT</a></p>
+<p class="p4"><a href="Iraq%20-%Japan%20BIT%20(2012)/Iraq%20-%20Japan%20BIT%20(2012).pdf">PDF</a></p>
+<p class="p4"><a href="Iraq%20-%20Japan%20BIT%20(2012)/Iraq%20-%20Japan%20BIT%20(2012).txt">TXT</a></p>
 </td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
