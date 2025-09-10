@@ -2993,7 +2993,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Armenia%20-%20Iraq%20BIT%20(2012)/Armenia%20-%20Iraq%20BIT%20(2012).pdf">PDF</a></p>
-<p class="p4"><span class="s1"><a href="Armenia%20-%Iraq%20BIT%20(2012)/Armenia%20-%20Iraq%20BIT%20(2012).txt">TXT<span class="s2"></span></a></span></p>
+<p class="p4"><a href="Armenia%20-%20Iraq%20BIT%20(2012)/Armenia%20-%20Iraq%20BIT%20(2012).txt">TXT</a></p>
 </td>
                 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
