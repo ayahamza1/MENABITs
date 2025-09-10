@@ -2830,9 +2830,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">-</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
-<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 </td>
   <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -2853,10 +2851,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">-</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
-<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
-</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
     <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Saudi Arabia BIT (2019)</span></span></p>
@@ -2899,10 +2894,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">-</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
-<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
-</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Belarus - Iraq BIT (2014)</span></span></p>
@@ -2922,10 +2914,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">-</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
-<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
-</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Jordan - Iraq BIT (2013)</span></span></p>
@@ -3037,10 +3026,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">-</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
-<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
-</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
                     <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">France - Iraq BIT (2010)</span></span></p>
@@ -3060,10 +3046,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">-</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
-<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
-</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
                       <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Kuwait BIT (1964)</span></span></p>
