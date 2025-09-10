@@ -2936,7 +2936,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Jordan%20-%20Iraq%20BIT%20(2013)/%20Jordan%20-%20Iraq%20BIT%20(2013).pdf">PDF</a></p>  
-<p class="p4"><a href="Jordan%20-%20Iraq%20BIT%20(2013)/Jordan%20-%20Iraq%20BIT%20(2013).txt">TXT</a></p>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 </td>
             <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -2959,7 +2959,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(2013)/Iraq%20-%20Kuwait%20BIT%20(2013).pdf">PDF</a></p>
-<p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(2013)/Iraq%20-%20Kuwait%20BIT%20(2013).txt">TXT</a></p>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 </td>
               <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
