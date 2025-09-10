@@ -38,19 +38,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
   <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Saudi Arabia BIT (2024)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">Signed</span></p>
+<p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">2024-15-10</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p5"><span class="s1"></span><br/></p>
+<p class="p5"><span class="s1">2025-04-06</span><br/></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">—</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">2025-04-06</span></p>
+<p class="p3"><span class="s1">—</span></p>
 <td style="padding: 8px 12px; min-width: 140px;">—</td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
