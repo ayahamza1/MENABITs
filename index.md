@@ -3022,7 +3022,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">No</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
+</td>
                     <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">France - Iraq BIT (2010)</span></span></p>
@@ -3042,7 +3043,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">No</span></p>
 </td>
-<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
+<td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
+</td>
                       <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Kuwait BIT (1964)</span></span></p>
