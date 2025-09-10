@@ -36,6 +36,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
     <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
   <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Egypt - Saudi Arabia BIT (2024)</span></span></p>
+  </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">In Force</span></p>
 </td>
