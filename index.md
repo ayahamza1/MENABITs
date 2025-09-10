@@ -2831,8 +2831,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="-">Missing PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="-">Missing TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
+<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
 </td>
   <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -2854,8 +2854,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="-">Missing PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="-">Missing TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
+<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
 </td>
     <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -2900,8 +2900,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="-">Missing PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="-">Missing TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
+<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
 </td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -2923,8 +2923,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="-">Missing PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="-">Missing TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
+<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
 </td>
 <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -3038,8 +3038,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="-">Missing PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="-">Missing TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
+<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
 </td>
                     <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
@@ -3061,8 +3061,8 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">-</span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p4"><span class="s1"><a href="-">Missing PDF<span class="s2"></span></a></span></p>
-<p class="p4"><span class="s1"><a href="-">Missing TXT<span class="s2"></span></a></span></p>
+<p class="p4"><span class="s1">Missing PDF<span class="s2"></span></span></p>
+<p class="p4"><span class="s1">Missing TXT<span class="s2"></span></span></p>
 </td>
                       <tr>
 <td class="td8" valign="top" style="padding: 8px 12px; min-width: 140px;">
