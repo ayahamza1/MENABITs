@@ -2816,19 +2816,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Türkiye BIT (2024)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 </td>
@@ -2837,19 +2837,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - United Arab Emirates BIT (2021)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
     <tr>
@@ -2857,19 +2857,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Saudi Arabia BIT (2019)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Saudi%20Arabia%20BIT%20(2019)/Iraq%20-%20Saudi%20Arabia%20BIT%20(2019).pdf">PDF</a></p>
@@ -2880,19 +2880,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Islamic Republic of Iran - Iraq BIT (2015)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 <tr>
@@ -2900,19 +2900,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Belarus - Iraq BIT (2014)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
 <tr>
@@ -2920,19 +2920,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Jordan - Iraq BIT (2013)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Jordan%20-%20Iraq%20BIT%20(2013)/%20Jordan%20-%20Iraq%20BIT%20(2013).pdf">PDF</a></p>  
@@ -2943,19 +2943,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Kuwait BIT (2013)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(2013)/Iraq%20-%20Kuwait%20BIT%20(2013).pdf">PDF</a></p>
@@ -2966,19 +2966,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Armenia - Iraq BIT (2012)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Armenia%20-%20Iraq%20BIT%20(2012)/Armenia%20-%20Iraq%20BIT%20(2012).pdf">PDF</a></p>
@@ -2989,19 +2989,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Japan BIT (2012)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Japan%20BIT%20(2012)/Iraq%20-%20Japan%20BIT%20(2012).pdf">PDF</a></p>
@@ -3012,19 +3012,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Germany - Iraq BIT (2010)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
                     <tr>
@@ -3032,19 +3032,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">France - Iraq BIT (2010)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">—</td>
                       <tr>
@@ -3052,19 +3052,19 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Kuwait BIT (1964)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">-</span></p>
+<p class="p3"><span class="s1"></span></p>
 </td>
 <td class="td14" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p4"><a href="Iraq%20-%20Kuwait%20BIT%20(1964)/Iraq%20-%20Kuwait%20BIT%20(1964).pdf">PDF</a></p>
