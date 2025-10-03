@@ -2879,7 +2879,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Islamic Republic of Iran - Iraq BIT (2015)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
