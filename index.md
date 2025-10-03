@@ -2731,7 +2731,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">1975-10-01</span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">Signed on 20-03-1986; Entered Into Force on 20-03-1986</span></p>
+<p class="p3"><span class="s1">Signed on 1986-03-20; Entered Into Force on 1986-03-20</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">No</span></p>
@@ -2819,7 +2819,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2024-04-22</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2839,7 +2839,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2021-10-18</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2859,7 +2859,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2019-04-17</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2882,7 +2882,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2015-09-06</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2902,7 +2902,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2014-08-23</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2922,7 +2922,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2013-12-25</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2943,7 +2943,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2013-12-06</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2964,7 +2964,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2012-11-07</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2987,7 +2987,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2012-06-07</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -3010,7 +3010,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2010-12-04</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -3031,7 +3031,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">2010-10-31</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -3052,7 +3052,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">Terminated</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">1964-10-25</span></p>
 </td>
 <td class="td11" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
