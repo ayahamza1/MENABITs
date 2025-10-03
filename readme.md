@@ -143,6 +143,7 @@ Treaties provided by UNCTAD in languages other than English are included and sou
 
 ### Only Arabic
 #### In Force
+* Iraq – Kuwait BIT (2013)
 * Egypt – Kuwait BIT (2001)
 * Egypt – Qatar BIT (1999)
 * Egypt – State of Palestine BIT (1998)
