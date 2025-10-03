@@ -1047,7 +1047,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">2000-06-03</span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">Signed on 14-04-2008; Entered Into Force on 14-04-2008</span></p>
+<p class="p3"><span class="s1">Signed on 2008-04-14; Entered Into Force on 2008-04-14</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">No</span></p>
@@ -1991,7 +1991,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p3"><span class="s1">1997-04-03</span></p>
 </td>
 <td class="td12" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1">Signed on 21-02-2007; Entered Into Force on 21-02-2007</span></p>
+<p class="p3"><span class="s1">Signed on 2007-02-21; Entered Into Force on 2007-02-21</span></p>
 </td>
 <td class="td13" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1">No</span></p>
