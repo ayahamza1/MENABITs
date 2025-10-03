@@ -2816,7 +2816,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Türkiye BIT (2024)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2836,7 +2836,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - United Arab Emirates BIT (2021)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2856,7 +2856,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Saudi Arabia BIT (2019)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2899,7 +2899,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Belarus - Iraq BIT (2014)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2919,7 +2919,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Jordan - Iraq BIT (2013)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2940,7 +2940,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Kuwait BIT (2013)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2961,7 +2961,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Armenia - Iraq BIT (2012)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -2984,7 +2984,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Japan BIT (2012)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -3007,7 +3007,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Germany - Iraq BIT (2010)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Signed</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -3028,7 +3028,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">France - Iraq BIT (2010)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">In Force</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
@@ -3049,7 +3049,7 @@ With inquiries or opportunities for collaboration, please contact [ahamza3141@gm
 <p class="p4"><span class="s1"><span style="color: black; text-decoration: none;">Iraq - Kuwait BIT (1964)</span></span></p>
 </td>
 <td class="td9" valign="top" style="padding: 8px 12px; min-width: 140px;">
-<p class="p3"><span class="s1"></span></p>
+<p class="p3"><span class="s1">Terminated</span></p>
 </td>
 <td class="td10" valign="top" style="padding: 8px 12px; min-width: 140px;">
 <p class="p3"><span class="s1"></span></p>
